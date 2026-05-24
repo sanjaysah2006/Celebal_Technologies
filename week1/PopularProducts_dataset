@@ -1,0 +1,534 @@
+product_id,title,product_description,rating,ratings_count,final_price,currency,category,total_amount
+9136281,Tommy Hilfiger,Unisex Navy Blue Striped Backpack,4.5,67,1884.35,INR,backpacks,126251.45
+17633752,Lavie,Aries Women Pink Mini Backpack,4.4,226,1049.65,INR,backpacks,237220.90000000002
+1376949,F Gear,Unisex Navy & Grey Printed Burner Backpack,4.4,1052,804.0,INR,backpacks,845808.0
+13939916,MYTRIDENT,Men Blue Solid Bath Robe,4.7,12,2406.17,INR,bath-robe,28874.04
+17198778,H&M,Beige & Tan Solid Stoneware Soap Dispenser,4.5,42,1399.0,INR,bathroom-accessories,58758.0
+18602872,My Room,Yellow & Green Floral 140 TC King Bedsheet with 2 Pillow Covers,4.7,10,1379.54,INR,bedsheets,13795.4
+18602850,My Room,Ethnic Print 144 TC Super King Bedsheet with 2 Pillow Covers,4.5,22,1379.54,INR,bedsheets,30349.879999999997
+8430275,MYTRIDENT,Sea Green Floral Flat 120 TC Cotton 1 Queen Bedsheet with 2 Pillow Covers,4.4,26,1187.46,INR,bedsheets,30873.96
+19788630,Home Ecstasy,140tc Pure Cotton printed Teal Blue Single Bedsheet with 1 Pillow Cover,4.5,6,695.4200000000001,INR,bedsheets,4172.52
+18346134,Arrabi,Pink & Grey Striped 300 TC King Cotton Bedsheet With 2 Pillow Covers,4.3,12,1518.96,INR,bedsheets,18227.52
+18985918,Tommy Hilfiger,Women Navy Blue Embroidered High-Neck Pure Cotton Bodysuit,4.1,11,1799.4,INR,bodysuit,19793.4
+22120138,Ed-a-Mamma Baby,Infant Boys Pack Of 2 Printed Pure Cotton Bodysuit,4.2,5,699.3,INR,bodysuit,3496.5
+21427828,London Rag,Women Stiletto Heeled High-Top Boots,5.0,4,3839.6000000000004,INR,boots,15358.400000000001
+17372928,The Souled Store,Men Blue & White Abstract Printed Boxers,4.5,22,367.54,INR,boxers,8085.88
+15115018,Jockey,Non-Wired Non-Padded Combed Cotton Workout Bra 1376-0105,4.4,1582,579.0,INR,bra,915978.0
+19219450,Susie,Black Solid Cotton T-Shirt Bra - Anti-Odour,4.3,12,374.5,INR,bra,4494.0
+22196924,Zivame,Underwired Lightly Padded Pushup Bra,4.3,118,499.5,INR,bra,58941.0
+19277544,Marks & Spencer,BOUTIQUE X DAMARIS Navy Blue Underwired Lightly Padded Balconette Bra,4.3,24,1199.6,INR,bra,28790.399999999998
+18223842,max,Plus Size Non Padded Bra,4.1,37,359.2,INR,bra,13290.4
+18656766,VStar,Beige Solid T-Shirt Bra,4.6,5,345.0,INR,bra,1725.0
+18656764,VStar,Grey Solid T-Shirt Bra,4.3,6,345.0,INR,bra,2070.0
+13523458,shyaway,Multicoloured Set of 3 Printed Underwired Lightly Padded Everyday Bra shya-com-217,4.3,6,1222.56,INR,bra,7335.36
+18652628,max,Sea Green & Blue Floral Bra Lightly Padded SU22PDNW08MIST,4.2,5,519.2,INR,bra,2596.0
+17774350,Zivame,Pink Lightly Padded T-shirt Bra,4.2,9,497.5,INR,bra,4477.5
+16704504,ZINU,Women Silver-Toned Brass Cubic Zirconia Rhodium-Plated Charm Bracelet,4.1,7,384.45,INR,bracelet,2691.15
+21873792,KARATCART,Cubic Zirconia Silver-Plated Wraparound Bracelet,4.6,5,815.2800000000002,INR,bracelet,4076.400000000001
+21573578,Jewels Galaxy,Women Brass Gold-Plated Bangle-Style Bracelet,4.2,24,305.66999999999996,INR,bracelet,7336.079999999999
+16696094,Van Heusen,Men Swift Dry High Stretch Mesh AIR Series Active Briefs 8905325842743,4.6,192,649.0,INR,briefs,124608.0
+21867416,DressBerry,Women Boy Shorts Brief,4.1,14,215.28,INR,briefs,3013.92
+21850852,Soie,Women High Waist Full Coverage Lace Brief,4.9,14,370.5,INR,briefs,5187.0
+21569986,Chromozome,Men Pack of 4 Premium Pure Cotton Mini Briefs 8902733625630-MULTI 9,4.2,18,719.4,INR,briefs,12949.199999999999
+22196594,Zoiro,Men Pack Of 2 Anti-Bacterial Basic Briefs,5.0,6,499.0,INR,briefs,2994.0
+22196914,Zivame,Women Pack Of 3 Low-Rise Ultra Soft Bikini Briefs,4.6,5,399.5,INR,briefs,1997.5
+21906602,bummer,Women Printed Micro Modal Mid Rise Boy Shorts,4.6,23,449.25,INR,briefs,10332.75
+13889998,XYXX,Men Grey Solid Ultra-Soft Antimicrobial Basic Briefs XYBRF56,4.1,202,249.0,INR,briefs,50298.0
+22436508,Bruchi CLUB,Men Low-Rise Anti-Bacterial Basic Briefs,5.0,4,310.79999999999995,INR,briefs,1243.1999999999998
+18882294,VStar,Women White Solid Modern Fit Deep Neckline  Camisoles,4.8,10,265.0,INR,camisoles,2650.0
+16281444,Bharatasya,Women White & Black Woolen Earwarmer Headband,4.3,7,223.68,INR,caps,1565.76
+18506050,Bata,Women Black Woven Design Slip-On Sneakers,4.4,86,539.55,INR,casual-shoes,46401.299999999996
+21903832,U.S. Polo Assn.,Women Perforated Sneakers,4.1,16,3224.25,INR,casual-shoes,51588.0
+21321784,San Frissco,Men  Colourblocked Sneakers,4.3,6,1678.6000000000004,INR,casual-shoes,10071.600000000002
+21497770,Puma,Men Sneakers,4.1,111,2249.55,INR,casual-shoes,249700.05000000002
+18489168,TOMS,Women Red Solid Alpargata Canvas Slip-On Sneakers,4.3,6,4999.0,INR,casual-shoes,29994.0
+17312062,Clarks,Men Blue Nubuck Penny Loafers,4.6,31,3499.5,INR,casual-shoes,108484.5
+16284648,Crew STREET,Women Sea Green Woven Design Slip-On Sneakers,4.1,41,1394.55,INR,casual-shoes,57176.549999999996
+19103830,PUMA Motorsport,Unisex Black Perforations BMW MMS Neo Cat Regular Sneakers,4.5,157,3149.55,INR,casual-shoes,494479.35000000003
+21937664,Cortina,Black & Beige 4 Pcs Ethnic Motif Printed Super Stretchable Chair Cover,4.7,15,935.28,INR,chair-cover,14029.199999999999
+16712992,Cutiekins,Girls Pink & White Printed Top with Shorts,4.1,454,599.7,INR,clothing-set,272263.80000000005
+21836198,Nottie Planet,Boys Printed T-shirt with Shorts,4.5,13,314.3,INR,clothing-set,4085.9
+18193844,Rubans,Cream-Coloured & Gold-Toned Embellished Embroidered Potli Clutch,4.1,25,495.0,INR,clutches,12375.0
+16694464,Ahalyaa,Women Stunning Blue Printed Top with Solid Skirt,4.1,195,1700.0,INR,co-ords,331500.0
+18494054,Home Sizzler,Green & Cream-Coloured Set of 2 Floral Window Curtain,4.3,48,479.4,INR,curtains-and-sheers,23011.199999999997
+16185546,ellementry,Gold-Toned 2 Pieces Stainless Steel Matte Spoon,5.0,5,1750.0,INR,cutlery,8750.0
+21426422,Trendyol,Black Maxi Dress,4.1,10,2419.45,INR,dresses,24194.5
+21238004,COVER STORY,Embellished Shoulder Straps Velvet Sheath Dress,4.8,24,2094.0,INR,dresses,50256.0
+21664974,Label Ritu Kumar,Candy Striped Pure Cotton Wrap Dress,4.6,7,3150.0,INR,dresses,22050.0
+22004792,WoowZerz,Button Detailed Mini Blazer Dress,4.8,26,1247.5,INR,dresses,32435.0
+18962984,Athena,Burgundy Off-Shoulder Scrunchie Bodycon Dress,4.3,236,799.6800000000001,INR,dresses,188724.48
+18977246,AURELIA,Blue Ethnic Motifs Maxi Dress,4.1,140,1762.5900000000001,INR,dresses,246762.60000000003
+18962990,Athena,Teal Blue Side Gathered Maxi Dress,4.2,35,849.6600000000001,INR,dresses,29738.100000000002
+18956684,Forevermore,Mustard Yellow Chiffon Embroidred Ruffle Tiered Midi Dress,4.2,5,1599.0,INR,dresses,7995.0
+18981160,Amydus,Blue & Orange Floral Wrap Dress,4.7,43,2799.0,INR,dresses,120357.0
+18962952,Athena,Lavender Solid Accordion Pleats Wrap Dress,4.2,3797,1119.6,INR,dresses,4251121.199999999
+15788324,Tokyo Talkies,Blue Off-Shoulder Maxi Dress,4.2,347,657.53,INR,dresses,228162.91
+15691070,QUIERO,Women Beautiful Orange Abstract Tiered Dress,4.1,474,987.0,INR,dresses,467838.0
+13770986,all about you,Black Solid Midi Halter Neck Fit and Flare Dress,4.2,38,2999.0,INR,dresses,113962.0
+17592092,U&F,Women Stylish Mustard Solid All in the Details Dress,4.1,7,753.7399999999998,INR,dresses,5276.1799999999985
+17661682,Tokyo Talkies,Lavender Cut Outs Sheath Mini Dress,4.1,13,604.11,INR,dresses,7853.43
+17692718,Style Quotient,Women Tranquil Teal Solid Halter Neck Dress,4.8,8,495.69000000000005,INR,dresses,3965.5200000000004
+17194598,Tokyo Talkies,Women Charming Purple Solid Dress,4.3,48,612.1500000000001,INR,dresses,29383.200000000004
+17194592,Tokyo Talkies,Women Stunning Blue Solid Dress,4.1,240,612.1500000000001,INR,dresses,146916.00000000003
+18207478,Tokyo Talkies,Women Gorgeous Green Solid Dress,4.1,333,279.6,INR,dresses,93106.8
+18996672,Bella Moda,Girls Yellow & Navy Blue Fit and Flare Dress,4.6,8,605.0999999999999,INR,dresses,4840.799999999999
+19213200,Label Ritu Kumar,Cream-Coloured & Blue Ethnic Motifs Georgette A-Line Dress,4.8,5,3120.0,INR,dresses,15600.0
+19987092,Vastralay,Grey & Black Tie and Dye Dyed Midi Dress,4.2,17,659.7800000000002,INR,dresses,11216.260000000004
+10054817,Veni Vidi Vici,Women Mustard Yellow Bodycon Dress,4.3,110,756.0,INR,dresses,83160.0
+10054855,Veni Vidi Vici,Solid Olive Green Ruched Bodycon Dress,4.2,389,756.0,INR,dresses,294084.0
+10691426,SASSAFRAS,Black & Beige Ikat Print Cotton Shirt Dress,4.5,4441,769.6500000000001,INR,dresses,3418015.6500000004
+18963006,Athena,Purple Off-Shoulder Scrunchie Bodycon Dress,4.3,45,799.6800000000001,INR,dresses,35985.600000000006
+19513066,Stylecast X Hersheinbox,Floral Fit & Flare Dress With Gathered Details,4.5,11,1177.14,INR,dresses,12948.54
+18975316,Berrylush,Women  Off-White Striped Knits Bits Dress,4.2,31,832.0,INR,dresses,25792.0
+21242962,Tommy Hilfiger,Sustainable Pure Cotton Denim Shirt Dress With Cut-Outs Detail,4.4,9,3599.4,INR,dresses,32394.600000000002
+21653646,ONLY,Floral Printed A-Line Dress,4.6,5,1319.6,INR,dresses,6598.0
+20022902,Slenor,Women Embellished Georgette Midi Dress,4.4,10,1475.5900000000001,INR,dresses,14755.900000000001
+20046216,YK Disney,Girls Minnie Mouse Graphic Printed A-Line T-shirt Dress,5.0,7,329.66999999999996,INR,dresses,2307.6899999999996
+22590642,YU by Pantaloons,Round Neck Schiffli Tiered Cotton A-Line Dress,4.8,12,719.52,INR,dresses,8634.24
+13572604,Tokyo Talkies,Women Green Self Design Sheath Dress,4.2,58,665.6300000000001,INR,dresses,38606.54000000001
+13649832,all about you,Black & Mustard Yellow Printed A-Line Dress,4.3,56,1999.0,INR,dresses,111944.0
+13387584,Wish Karo,Girls Black & White Printed Fit and Flare Silk Dress (0-3 Months),4.1,11,699.6500000000001,INR,dresses,7696.1500000000015
+13558254,Tokyo Talkies,Women Peach-Coloured Printed Fit and Flare Dress,4.1,934,553.09,INR,dresses,516586.06000000006
+13406942,Global Desi,Girls Blue Embroidered A-Line Denim Dress,4.8,8,449.75,INR,dresses,3598.0
+1341220,Miss Chase,Black & White Striped Belted Dress,4.4,22,1034.1,INR,dresses,22750.199999999997
+13387582,Wish Karo,Girls Black Polka Dot Printed Fit and Flare Dress,4.7,18,743.05,INR,dresses,13374.9
+13391540,Mast & Harbour,EcoVero Women Yellow & White Abstract Printed Tiered Shirt Dress,4.1,576,679.6600000000001,INR,dresses,391484.16000000003
+13435624,Deewa,Women Navy Blue & Off-White Floral Print Maxi Dress,4.1,28,681.69,INR,dresses,19087.32
+13382036,plusS,Women Olive Green Accordion Pleated Midi A-Line Dress with Belt,4.2,623,322.8299999999999,INR,dresses,201123.08999999997
+13449506,DOOR74,Women Black Solid Maxi Dress,5.0,7,719.7,INR,dresses,5037.900000000001
+22590644,YU by Pantaloons,Shoulder Straps Schiffli Cotton A-Line Dress,4.7,17,643.54,INR,dresses,10940.18
+13398280,Zastraa,Women Grey Solid Sheath Dress,4.3,45,989.6999999999998,INR,dresses,44536.49999999999
+22596522,Vero Moda,Shoulder Straps Cut Out Smocked A-Line Midi Dress,4.3,12,1329.65,INR,dresses,15955.800000000001
+12356000,KLEIO,Women Green Solid Vegan Quilted Unisex Gym Bag,4.6,8,1574.55,INR,duffel-bag,12596.4
+21656682,Dupatta Bazaar,Embroidered Dupatta with Sequinned,4.3,33,489.51,INR,dupatta,16153.83
+22601210,Nimidiya,Leheriya Dyed Dupatta,4.5,13,399.6,INR,dupatta,5194.8
+20195790,Dupatta Bazaar,Sequin Embroidered Net Dupatta,4.7,10,519.48,INR,dupatta,5194.8
+12999996,Vishudh,Women Navy Blue Checked Dupatta,4.6,17,227.62,INR,dupatta,3869.54
+15713414,Crunchy Fashion,White Contemporary Studs Earrings,4.2,22,639.3599999999999,INR,earrings,14065.919999999998
+15750524,Priyaasi,Rose Gold-Plated Dome Shaped Jhumkas,4.4,97,2079.74,INR,earrings,201734.77999999997
+15014966,Priyaasi,Gold-Toned & Gold Plated Contemporary Jhumkas Earrings,4.9,13,947.7600000000002,INR,earrings,12320.880000000003
+10564232,PRITA BY PRIYAASI,Multicoloured Gold-Plated Beaded Handcrafted Circular Half Hoop Earrings,4.3,727,350.29999999999995,INR,earrings,254668.09999999998
+10135431,Priyaasi,Green Gold-Plated Dome Shaped Jhumkas,4.5,347,500.0,INR,earrings,173500.0
+10125225,KARATCART,Peach-Coloured & Off-White Gold-Plated Stone-Studded Crescent Shaped Chandbalis,4.1,872,423.3599999999999,INR,earrings,369169.9199999999
+10125241,KARATCART,Green Gold-Plated Beaded Enamelled Floral Chandbalis,4.2,22,307.98,INR,earrings,6775.56
+19925208,Yellow Chimes,Women Green & Gold Boho Dangle Chiffon Silk Layered Petal Hoop Earrings,4.1,14,433.44,INR,earrings,6068.16
+20041906,KARATCART,Women Black Oxidised Classic Drop Earrings,4.3,9,605.5,INR,earrings,5449.5
+22601952,SOHI,Gold Plated Teardrop Shaped Drop Earrings,4.5,15,349.20000000000005,INR,earrings,5238.000000000001
+22618882,Saraf RS Jewellery,Silver-Plated Contemporary Oxidised Drop Earrings,4.2,99,872.8499999999999,INR,earrings,86412.15
+14467848,GIVA,925 Sterling Silver Rhodium Plated Chain Hoop Earrings,4.4,17,1399.5,INR,earrings,23791.5
+14399558,Shoshaa,Silver-Plated & Pink Oxidised Drop Earrings,4.6,21,696.6400000000001,INR,earrings,14629.440000000002
+19072820,FemNmas,Silver-Toned Classic Studs Earrings,4.4,5,249.0,INR,earrings,1245.0
+13402874,Crunchy Fashion,Black & Gold-Toned Contemporary Jhumkas,4.2,6,346.5,INR,earrings,2079.0
+13340876,Kord Store,Red Gold Plated Meenakari Classic Jhumkas,4.4,7,542.8800000000001,INR,earrings,3800.1600000000008
+12930744,ANIKAS CREATION,Blue Dome Shaped Jhumkas,4.4,16,483.75,INR,earrings,7740.0
+21990058,Rustorange,Floral Printed A-Line Midi Ethnic Dress,5.0,2,1484.55,INR,ethnic-dresses,2969.1
+21992820,PANIT,Embroidered Sequinned Georgette Fit And Flare Ethnic Maxi Dress,4.4,14,2319.71,INR,ethnic-dresses,32475.940000000002
+15741088,Ashnaina,Women Brown Animal Midi Fit and Flare Dress,4.1,88,593.6700000000001,INR,ethnic-dresses,52242.96000000001
+15788632,AURELIA,Black Checked Empire Midi Dress,4.2,14,1399.44,INR,ethnic-dresses,19592.16
+15749780,W,Women Mustard Yellow & White Ethnic Printed Maxi Ethnic Dress,4.3,23,1599.6,INR,ethnic-dresses,36790.799999999996
+19990734,VASTRAMAY,Girls Mustard Yellow Chikankari Cotton Ethnic Dress,4.7,9,974.6099999999999,INR,ethnic-dresses,8771.49
+13404948,YASH GALLERY,Women Black & White Cotton Printed A-Line Maternity Dress,4.1,67,935.7600000000002,INR,ethnic-dresses,62695.92000000001
+13355452,Rangriti,Women Coral Pink & White Liva Checked A-Line Dress With Belt,4.4,33,844.35,INR,ethnic-dresses,27863.55
+15787112,Mamaearth,Oil-Free Face Moisturizer With Turmeric & Saffron For Skin Brightening  - 80 ml,4.3,903,280.72,INR,face-moisturisers,253490.16000000003
+12926546,natural vibes,Unisex Ayurvedic Teatree Facewash 150ml,4.8,9,426.55,INR,face-wash-and-cleanser,3838.9500000000003
+16704788,Birkenstock,Unisex Regular Width Glamour Gold Gizeh Essentials Slide Sandals,4.5,12,4990.0,INR,flats,59880.0
+21735080,Birkenstock,Women Gizeh Regular Width T-Strap Flats,4.5,11,6990.0,INR,flats,76890.0
+21735014,Birkenstock,Women Madrid Big Buckle Narrow Width Nubuck Leather Open Toe Flats,4.8,5,9490.0,INR,flats,47450.0
+13596626,Anouk,Women Gold-Toned & Beige Embellished One Toe Flats,4.3,44,2299.0,INR,flats,101156.0
+21205620,Tommy Hilfiger,Women Printed Thong Flip-Flops,4.3,8,1819.3,INR,flip-flops,14554.4
+21497394,Puma,Unisex Mia V2 Printed Thong Flip-Flops,4.1,52,499.5,INR,flip-flops,25974.0
+18521180,Reebok,Women White & Purple Cuba Flip Thong Flip-Flops,4.5,75,999.5,INR,flip-flops,74962.5
+20124616,Duke,Men Printed Thong Flip-Flops,4.3,20,259.35,INR,flip-flops,5187.0
+19790160,toothless,Girls Pink & Green Printed Rubber Thong Flip-Flops,4.1,15,199.60000000000002,INR,flip-flops,2994.0000000000005
+18598106,Ginger by Lifestyle,Women Pink & White Printed Rubber Thong Flip-Flops,4.4,45,299.4,INR,flip-flops,13472.999999999998
+16168398,Bata,Women Brown Printed Room Slippers,4.1,38,449.25,INR,flip-flops,17071.5
+13374286,Saral Home,Blue Foor Mat,4.7,7,1459.27,INR,floor-mats--dhurries,10214.89
+13374334,Saral Home,Green Solid Anti-Skid Floor Mat,4.4,5,1459.27,INR,floor-mats--dhurries,7296.35
+21931392,Clarks,Men Leather Round Toe Formal Derbys,4.4,7,5999.4,INR,formal-shoes,41995.799999999996
+21602846,SUGAR,Aquaholic Hydrating Foundation with Built-In Cushion Applicator 30ml - Latte 10,4.2,12,899.0,INR,foundation,10788.0
+14950128,YK,Kids Coffee Brown Striped Hand Gloves,4.5,62,349.5,INR,gloves,21669.0
+16721772,BodyHerbals,Anti-Static Wide Tooth Dressing Comb,4.4,14,335.15999999999997,INR,hair-brush-and-comb,4692.24
+18584192,7 DAYS,"Vitamin C Face Scrub For Glowing Skin, With Walnut For Skin Illumination-100 g",4.5,13,219.56,INR,hair-cream-and-mask,2854.28
+18584190,7 DAYS,100% Natural & Pure Amla Powder for Hair & Skin - 100 g,4.4,11,219.56,INR,hair-masks,2415.16
+21421856,Baggit,Dinosaur Textured PU Regular Structured Handheld Bag,4.4,5,995.0,INR,handbags,4975.0
+21421918,Baggit,Textured Handheld Bag,4.6,18,1020.6,INR,handbags,18370.8
+16696848,Accessorize,London Women Faux Leather Piper Sling bag,4.6,38,1948.0500000000002,INR,handbags,74025.90000000001
+7743536,Lino Perros,Navy Blue Solid Shoulder Bag,4.5,6,1528.3000000000002,INR,handbags,9169.800000000001
+7743355,Lino Perros,Blue Solid Shoulder Bag,4.3,14,1398.0,INR,handbags,19572.0
+17637810,Toteteca,Women Black PU Structured Shoulder Bag,4.8,5,1146.63,INR,handbags,5733.150000000001
+17761230,Caprese,Red Leather Structured Shoulder Bag,4.1,10,1199.6999999999998,INR,handbags,11996.999999999998
+15188034,Metro,Grey PU Swagger Sling Bag,4.3,10,1290.0,INR,handbags,12900.0
+21762808,Baggit,Structured Sling Bag,4.6,10,845.0,INR,handbags,8450.0
+21421996,Baggit,Studded Sling Bag,4.5,40,995.0,INR,handbags,39800.0
+13359482,FLYING BERRY,Silver-Toned Solid Handheld Bag,4.9,7,1679.44,INR,handbags,11756.08
+13389422,DailyObjects,Multicoloured Printed Sling Bag,4.3,123,1139.62,INR,handbags,140173.25999999998
+13389410,DailyObjects,Pink & Beige Printed Sling Bag,4.2,30,1139.62,INR,handbags,34188.6
+19219056,BLAUPUNKT,BH51 Wireless Earphones - Black,4.5,11,4019.33,INR,headphones,44212.63
+13474452,Allen Solly,Women Tan Brown & Black Solid Block Heels,4.3,14,1149.5,INR,heels,16093.0
+17647418,FOOTONS,Women Beige Comfort Sandals,5.0,2,1439.55,INR,heels,2879.1
+22217088,DressBerry,Open Back Flatform Heels,4.1,34,735.54,INR,heels,25008.36
+19217010,Inc 5,Women Beige Embellished Ethnic Wedge Heels,4.4,14,2690.0,INR,heels,37660.0
+16276014,Iris,Brown & Black Home Fragrance Set,4.5,6,595.0,INR,home-fragrance-set,3570.0
+19014822,mothercare,Boys Colourblocked Fleece Lined Padded Jacket,4.6,7,1924.45,INR,jackets,13471.15
+19015560,U.S. Polo Assn. Kids,Boys Yellow Solid Puffer Jacket,4.5,40,1424.43,INR,jackets,56977.200000000004
+19020502,U.S. Polo Assn.,Men Red & Navy Blue Colourblocked Puffer Jacket,4.4,338,2960.53,INR,jackets,1000659.14
+19014828,mothercare,Infant Girls Pure Cotton Tailored Jacket,4.5,15,2249.25,INR,jackets,33738.75
+19015652,U.S. Polo Assn. Kids,Girls Pink Self Design Bomber Jacket,4.2,19,1511.46,INR,jackets,28717.74
+19020536,U.S. Polo Assn.,U S Polo Assn Men Blue & White Colourblocked Long Sleeves Puffer Jacket,4.1,91,3499.5,INR,jackets,318454.5
+19020616,U.S. Polo Assn.,U S Polo Assn Men Beige & Black Colourblocked Puffer Jacket,4.3,47,4409.3,INR,jackets,207237.1
+19020478,U.S. Polo Assn.,Men Black & Teal Green Colourblocked Sleeveless Puffer Jacket,4.3,150,2759.4,INR,jackets,413910.0
+19837040,High Star,Women Olive Green Solid Crop Padded Jacket,4.1,41,562.3499999999999,INR,jackets,23056.349999999995
+14991614,Roadster,Men Green Brand Logo Detail Tailored Jacket,4.2,363,849.5,INR,jackets,308368.5
+16182066,People,Men Mustard Sleeveless Bomber Jacket,4.3,71,935.48,INR,jackets,66419.08
+19231126,Mast & Harbour,Women Brown PU Coated Biker Jacket,4.2,31,1439.6799999999998,INR,jackets,44630.079999999994
+19020564,U.S. Polo Assn.,Men Olive Green Bomber Jacket,4.3,112,2649.5,INR,jackets,296744.0
+19015534,U.S. Polo Assn. Kids,Girls Maroon Solid Puffer Jacket,4.1,33,1599.3600000000001,INR,jackets,52778.880000000005
+19020450,U.S. Polo Assn.,U S Polo Assn Men Navy Blue Puffer Jacket,4.3,96,3899.4,INR,jackets,374342.4
+19020676,U.S. Polo Assn.,Men Charcoal Bomber Jacket,4.6,85,3134.45,INR,jackets,266428.25
+19020568,U.S. Polo Assn.,Men White Navy Blue Solid Reversible Open Front Jacket,4.2,199,4199.4,INR,jackets,835680.6
+18973692,Levis,Men Blue 65504 Skinny Fit Mid Rise Light Fade Stretchable Jeans,4.2,426,1762.5700000000002,INR,jeans,750854.8200000001
+18973742,Levis,Men Blue Slim Fit Slash Knee Heavy Fade Stretchable Jeans,4.2,182,2287.48,INR,jeans,416321.36
+18974084,Levis,512 Men Navy Blue Slim Tapered Fit Mid-Rise Light Fade Clean Look Stretchable Jeans,4.2,135,1891.5700000000002,INR,jeans,255361.95
+18973648,Levis,Men Blue 511 Slim Fit Light Fade Stretchable Jeans,4.2,290,4099.0,INR,jeans,1188710.0
+18973888,Levis,Men Skinny Fit Heavy Fade Stretchable Jeans,4.4,333,4099.0,INR,jeans,1364967.0
+18973730,Levis,Men Blue 511 Slim Fit Mid Rise Light Fade Stretchable Jeans,4.1,193,2243.49,INR,jeans,432993.56999999995
+19008496,Calvin Klein Jeans,Women Skinny Fit High-Rise Light Fade Stretchable Jeans,5.0,8,4799.4,INR,jeans,38395.2
+18992754,AMERICAN EAGLE OUTFITTERS,Women Grey Straight Fit High-Rise Highly Distressed Jeans,4.8,5,1799.6,INR,jeans,8998.0
+18973922,Levis,Men Blue 65504 Skinny Fit Mid Rise Light Fade Stretchable Jeans,4.1,237,4099.0,INR,jeans,971463.0
+18973950,Levis,65504 Men Navy Blue Skinny Straight Fit Mid-Rise Light Fade Stretchable Jeans,4.1,156,2449.51,INR,jeans,382123.56000000006
+19842706,Llak Jeans,Men Black Skinny Fit Light Fade Stretchable Jeans,4.2,9,574.75,INR,jeans,5172.75
+13768634,Nautica,Men Black Slim Fit Stretchable Jeans,4.6,16,4999.0,INR,jeans,79984.0
+18973728,Levis,Men 65504 Skinny Tapered Fit Jeans,4.4,260,2331.47,INR,jeans,606182.2
+18903330,Levis,Women Blue Skinny Fit High-Rise Stretchable Jeans,4.4,235,2639.2,INR,jeans,620212.0
+18973740,Levis,Men Blue 512 Slim Tapered Fit Mid Rise Stretchable Jeans,4.3,340,1762.5700000000002,INR,jeans,599273.8
+18969982,Allen Solly Junior,Boys Slim Fit Heavy Fade Stretchable Jeans,4.2,6,1169.35,INR,jeans,7016.099999999999
+18734066,Flying Machine,Men Blue Micheal Slim Fit Mid-Rise Light Fade Stretchable Jeans,4.1,26,1052.61,INR,jeans,27367.859999999997
+18993370,Blackberrys,Men Navy Blue Slim Fit Stretchable Jeans,4.3,29,1977.0,INR,jeans,57333.0
+15067844,Flying Machine,Men Blue Jackson Skinny Fit Low-Rise Heavy Fade Printed Stretchable Jeans,4.1,69,1199.5,INR,jeans,82765.5
+18960434,Lee,Men Blue Bruce Skinny Fit Light Fade Stretchable Jeans,4.4,34,1799.5500000000002,INR,jeans,61184.700000000004
+18973952,Levis,Men Blue 517 Slim Fit Mid-Rise Stretchable Jeans,4.1,329,1819.48,INR,jeans,598608.92
+18689340,Flying Machine,Women Black Wide Leg High-Rise Light Fade Cropped Jeans,4.3,36,1362.42,INR,jeans,49047.12
+18973790,Levis,Men Blue 512 Slim Tapered Fit Heavy Fade Jeans,4.3,54,2799.5,INR,jeans,151173.0
+21184968,HERE&NOW,Women Flared Heavy Fade Stretchable Jeans,4.6,111,767.6800000000001,INR,jeans,85212.48000000001
+18903148,Levis,Women Blue 711 Skinny Fit Light Fade Stretchable Jeans,4.3,150,3119.2,INR,jeans,467880.0
+18734006,Flying Machine,Men Blue Jackson Skinny Fit Low-Rise Heavy Fade Stretchable Jeans,4.3,42,1249.5,INR,jeans,52479.0
+18928362,AMERICAN EAGLE OUTFITTERS,Women Blue Skinny Fit Mildly Distressed Light Fade Jeans,4.1,9,1799.6,INR,jeans,16196.4
+18964420,American Bull,Men Blue Skinny Fit Light Fade Jeans,4.5,2,1633.62,INR,jeans,3267.24
+18973914,Levis,Men Blue 512 Slim Tapered Fit Mid Rise Light Fade Stretchable Jeans,4.4,243,1519.6,INR,jeans,369262.8
+15049188,Roadster,Pink & Black Geometric Printed Basic Smocked Detail Jumpsuit,4.5,50,839.5999999999999,INR,jumpsuit,41979.99999999999
+17656880,Vishudh,Women Blue Thread Work Straight Kurta,4.4,43,854.43,INR,kurtas,36740.49
+16186258,Vishudh,Women Black Keyhole Neck Kurta,4.2,87,377.78999999999996,INR,kurtas,32867.729999999996
+22110424,VASTRADO,Ethnic Motifs Printed Mandarin Collar Pure Cotton Short Kurta,5.0,2,539.55,INR,kurtas,1079.1
+18637234,House of Pataudi,Women Blue & Silver-Toned Ethnic Motifs Yoke Design Kurta,4.2,85,2499.0,INR,kurtas,212415.0
+13562488,KSUT,Women Black & White Geometric Screen Print Mandarin Collar Pure Cotton Straight Kurta,4.3,95,687.57,INR,kurtas,65319.15
+17644540,Libas,Women Pink & Golden Yoke Design  Kurta,4.2,364,899.6400000000001,INR,kurtas,327468.96
+13506804,Ishin,Women Teal Embellished Anarkali Cotton Kurta,4.1,169,2391.54,INR,kurtas,404170.26
+18637284,House of Pataudi,Women Ethnic Motifs Embroidered Anarkali Jashn Kurta,4.1,34,3999.0,INR,kurtas,135966.0
+19574714,Cayman,Women Black Floral Printed Woollen Kurta,4.3,17,2997.5,INR,kurtas,50957.5
+19580226,DEVOILER,Men Coffee Brown Solid Kurta,4.7,7,1124.55,INR,kurtas,7871.849999999999
+12524816,HERE&NOW,Women Blue & Golden Ethnic Printed Straight Kurta,4.1,937,1199.0,INR,kurtas,1123463.0
+12531668,INDYA,Women White & Pink Printed A-Line Layered Kurta,4.4,10,1305.0,INR,kurtas,13050.0
+19688180,KALINI,Women Pink Floral Printed Keyhole Neck Floral Georgette Kurta,4.1,11,794.47,INR,kurtas,8739.17
+19027402,Jompers,Men Mustard Yellow Ethnic Motifs Embroidered Mirror Work Pure Cotton Kurta with Pyjamas,4.5,6,874.75,INR,kurta-sets,5248.5
+18925432,Indo Era,Women Green Sequinned Kurta with Palazzos & With Dupatta,4.7,14,1403.7399999999998,INR,kurta-sets,19652.359999999997
+18946592,Indian Virasat,Women Peach-Coloured Ethnic Motifs Printed Pure Cotton Kurta with Trousers,4.3,9,839.7199999999998,INR,kurta-sets,7557.479999999998
+19027352,Jompers,Men Green Ethnic Motifs Kurta with Churidar,4.2,104,747.6600000000001,INR,kurta-sets,77756.64000000001
+17754514,Indo Era,Women Purple Floral Embroidered Kurta with Trousers & With Dupatta,4.1,91,1699.75,INR,kurta-sets,154677.25
+19027424,Jompers,Men Yellow Angrakha Kurta with Pyjamas,4.1,151,747.6600000000001,INR,kurta-sets,112896.66000000002
+19027432,Jompers,Men Peach-Coloured Ethnic Motifs Embroidered Chikankari Dupion Silk Kurta with Pyjamas,4.4,35,1109.63,INR,kurta-sets,38837.05
+15189724,VASTRAMAY,Boys Gold-Toned Solid Silk Blend Regular Kurta With Pyjamas,4.2,62,737.5899999999999,INR,kurta-sets,45730.579999999994
+14325388,Anouk,Women Peach-Coloured Pure Cotton Ethnic Motifs Print Pleated Kurta with Palazzos,4.1,99,2899.0,INR,kurta-sets,287001.0
+17090208,Anouk,Women Maroon Solid V-Neck Straight Kurta with Trousers,4.3,100,3399.0,INR,kurta-sets,339900.0
+13446422,Biba,Women Cream-Coloured Motifs Print Panelled Cotton Kurta with Churidar & Dupatta,4.4,749,2497.5,INR,kurta-sets,1870627.5
+2184914,SUGAR,Smudge Me Not Liquid Matte Lipstick with Vitamin E 4.5 ml - Greige Rage 11,4.3,76,434.13,INR,lipstick,32993.88
+18273822,Dreamz by Pantaloons,Women Grey & White Striped Cotton Lounge Shorts,4.5,15,489.02,INR,lounge-shorts,7335.299999999999
+22492614,U.S. Polo Assn.,Men Brand Logo Printed Pure Cotton Lightweight Lounge T-Shirt,4.2,19,664.05,INR,lounge-tshirts,12616.949999999999
+13428018,ETC,Women Brown & Navy Blue Pure Cotton Striped Lounge T-Shirt,4.3,189,239.70000000000005,INR,lounge-tshirts,45303.30000000001
+15898082,Bailey sells,Blue Printed Maxi Nightdress,4.6,5,696.0,INR,nightdress,3480.0
+22721938,Sweet Dreams,Khaki Floral Printed Pure Cotton Maxi Nightdress,4.8,5,599.4,INR,nightdress,2997.0
+17832728,Dreamz by Pantaloons,Typography Printed T-shirt Nightdress,4.9,12,370.47,INR,nightdress,4445.64
+18209958,Sweet Dreams,Men Black Solid Casual Night suit,4.1,13,1175.44,INR,night-suits,15280.720000000001
+15973760,Zoom Minimondo,Unisex Kids Magenta & Blue Pure Cotton Night suit,4.8,10,402.69000000000005,INR,night-suits,4026.9000000000005
+16512022,MASQ,Men Pack Of 3 Solid 4-Ply Reusable Pure Cotton Cloth Masks,4.5,35,223.5,INR,outdoor-masks,7822.5
+17361920,Indo Era,Women Navy Blue Solid Straight Palazzos,4.2,23,557.69,INR,palazzos,12826.87
+17288460,Cutiekins,Girls Off White Solid Knitted Linen Palazzos,4.2,26,450.59000000000003,INR,palazzos,11715.34
+15782402,BEARDO,Beardo Set of God Father & Dark Side Eau De Parfum 100 ml Each,4.4,153,864.0,INR,perfume-and-body-mist,132192.0
+15294314,Zaveri Pearls,Set of 2 Rose Gold Plated CZ-Studded Contemporary Rings,4.4,27,359.0999999999999,INR,ring,9695.699999999997
+16254760,Zaveri Pearls,Set Of 3 Gold-Plated White & Green Kundan-Studded & Beaded Meenakari Finger Rings,4.2,504,427.5,INR,ring,215460.0
+10018911,SEJ by Nisha Gupta,Multicoloured Printed Table Runner,4.5,13,554.7,INR,runners,7211.1
+10044165,Coolers,Men Black Solid Sandals,4.2,18,799.0,INR,sandals,14382.0
+19183770,Crocs,Unisex Multicoloured Classic Spray Dye Croslite Clogs,4.1,21,2636.0,INR,sandals,55356.0
+18949542,Red Chief,Men Tan & Black Leather Comfort Sandals,4.3,32,1549.5,INR,sandals,49584.0
+15725544,SALWAR STUDIO,Women Navy Blue & Green Printed Padded Cotton Readymade Saree Blouse,4.1,12,1813.05,INR,saree-blouse,21756.6
+14654046,SALWAR STUDIO,Women Silver-Coloured Embroidered Readymade Saree Blouse,4.4,12,2197.8,INR,saree-blouse,26373.600000000002
+18465340,Silk Land,Beige & Orange Floral Printed Pure Cotton Jamdani Saree,4.1,15,1237.5,INR,sarees,18562.5
+16287654,Saree mall,Navy Blue Floral Linen Blend Banarasi Saree,4.1,359,1024.75,INR,sarees,367885.25
+16287830,Saree mall,Black Floral Linen Blend Banarasi Saree,4.2,12,983.7600000000002,INR,sarees,11805.120000000003
+16287764,Saree mall,Purple Silk Cotton Banarasi Saree,4.1,129,1343.7199999999998,INR,sarees,173339.87999999998
+19823504,VAIRAGEE,Black Embellished Sequinned Celebrity Saree,4.2,19,1699.1499999999996,INR,sarees,32283.84999999999
+16293500,BELLEZIYA,Women Blue & White Printed Scarf,4.3,3,437.15,INR,scarves,1311.4499999999998
+16293432,BELLEZIYA,Women Blue & White Tie & Dye Dyed Scarf,4.7,6,524.65,INR,scarves,3147.8999999999996
+14472340,Earth Rhythm,Milk Protein Shampoo Bar  80g,4.1,21,284.25,INR,shampoo-and-conditioner,5969.25
+16779444,FIXDERMA COSMETIC LABORATORIES,Women Strengthening Hair Conditioner - 300ml,4.8,5,1250.0,INR,shampoo-and-conditioner,6250.0
+15880308,Sirona,Aloevera Post Shave Gel & Twin Blade Disposable Razor Combo,4.9,7,285.18,INR,shaving-essentials,1996.26
+17332192,KISAH,Men Beige & Green Woven-Design Sherwani Set,4.3,3,4977.62,INR,sherwani,14932.86
+18960048,The Indian Garage Co,Men White & Beige Striped Casual Shirt,4.2,128,454.74,INR,shirts,58206.72
+18960188,The Indian Garage Co,Men White & Charcoal Grey Printed Cotton Casual Shirt,4.4,35,454.74,INR,shirts,15915.9
+18996778,U.S. Polo Assn.,U S Polo Assn Men Blue Gingham Checks Patch Pocket Checked Casual Shirt,4.2,10,1299.5,INR,shirts,12995.0
+18996772,U.S. Polo Assn.,U S Polo Assn Men Coral and Blue Striped 100% Cotton Casual Shirt,4.9,10,1399.5,INR,shirts,13995.0
+18960086,The Indian Garage Co,Men Green Slim Fit Horizontal Stripes Casual Shirt,4.5,23,489.72,INR,shirts,11263.560000000001
+18463946,Lee,Men Pink Slim Fit Tartan Checks Checked Casual Shirt,4.5,15,1199.5,INR,shirts,17992.5
+13621622,U.S. Polo Assn.,Men Blue Regular Fit Printed Casual Shirt,4.4,41,2399.0,INR,shirts,98359.0
+17719808,Louis Philippe Jeans,Men Green & White Slim Fit Tartan Checked Pure Cotton Casual Shirt,4.5,18,1517.31,INR,shirts,27311.579999999998
+18759238,HERE&NOW,Women Yellow And Black Polka Dot Printed Casual Shirt,4.3,32,741.47,INR,shirts,23727.04
+20394602,Cantabil,Men Black Solid Cotton Formal Shirt,4.4,38,799.5999999999999,INR,shirts,30384.799999999996
+13672974,WROGN,Men White & Red Regular Fit Checked Casual Shirt,4.1,250,1169.55,INR,shirts,292387.5
+13694492,Ecentric,Men Cream-Coloured Slim Fit Eco-Friendly Hemp Casual Sustainable Shirt,4.5,22,1624.35,INR,shirts,35735.7
+21388884,French Connection,Slim Fit Striped Cotton Casual Shirt,4.3,58,659.7,INR,shirts,38262.600000000006
+21396820,Jack & Jones,Men Slim Fit Printed Casual Shirt,4.4,15,1224.65,INR,shirts,18369.75
+16042682,Nautica,Men Navy Blue Printed Casual Shirt,4.2,15,1799.5,INR,shirts,26992.5
+18996754,U.S. Polo Assn.,U S Polo Assn Men Brown Tartan Checks Checked Pure Cotton Casual Shirt,4.1,9,1299.5,INR,shirts,11695.5
+17296250,CAVIO,Boys Green & Black Colourblocked Casual Shirt,4.3,20,864.3,INR,shirts,17286.0
+17280264,HIGHLANDER,Men Sea Green & Pink Slim Fit Printed Cotton Casual Shirt,4.2,1246,491.59000000000003,INR,shirts,612521.14
+17307612,Louis Philippe Jeans,Men Blue Slim Fit Checked Casual Cotton Shirt,4.3,23,1539.3,INR,shirts,35403.9
+17345842,JC Collection,Women Blue Abstract Printed Casual Shirt,4.1,12,1924.45,INR,shirts,23093.4
+17307656,SIMON CARTER LONDON,Men White Slim Fit Floral Printed Casual Shirt,4.6,5,1119.6,INR,shirts,5598.0
+17313630,JAINISH,Men Blue Classic Formal Shirt,4.1,68,579.71,INR,shirts,39420.28
+17342230,Pepe Jeans,Boys White Printed Casual Shirt,4.3,6,719.55,INR,shirts,4317.299999999999
+17331296,Fabindia,Men Blue Stripes Striped Cotton Casual Shirt,4.4,5,1699.0,INR,shirts,8495.0
+17355884,Mast & Harbour,Men Green & Navy Blue Checked Pure Cotton Casual Shirt,4.1,167,699.6500000000001,INR,shirts,116841.55000000002
+17293106,DressBerry,Women Pink & White Slim Fit Floral Printed Casual Shirt,4.2,622,655.59,INR,shirts,407776.98000000004
+17342236,Pepe Jeans,Boys Yellow & Blue Cotton Checked Casual Shirt,4.4,16,719.55,INR,shirts,11512.8
+17375000,ColorPlus,Men Red Printed Casual Shirt,4.5,15,1679.3,INR,shirts,25189.5
+17289100,Roadster,The  Life Co. Spread Collar Pure Cotton Casual Shirt,4.3,7,854.55,INR,shirts,5981.849999999999
+17302022,Pantaloons Junior,Boys Blue Solid Cotton Casual Shirt,4.4,77,687.14,INR,shirts,52909.78
+18970712,Tommy Hilfiger,Boys Corduroy Casual Shirt,4.5,10,1979.4,INR,shirts,19794.0
+18960126,The Indian Garage Co,Men Peach-Coloured Printed Casual Cotton Shirt,4.1,21,454.74,INR,shirts,9549.54
+18970848,Tommy Hilfiger,Boys Green & Blue Tartan Checks Pure Cotton Casual Shirt,4.6,14,1679.4,INR,shirts,23511.600000000002
+18969276,Ruhaans,Women Black Classic Casual Shirt,4.1,14,643.54,INR,shirts,9009.56
+13692652,M&H Our Water,Men Rust Brown & Off-White Slim Fit Checked Sustainable Casual Shirt,4.2,78,2499.0,INR,shirts,194922.0
+13768790,Nautica,Men Blue & White Slim Fit Printed Smart Casual Shirt,4.3,40,1649.5,INR,shirts,65980.0
+13453254,DENNISON,Men Mauve Smart Slim Fit Solid Cotton Linen Casual Shirt,4.6,7,571.74,INR,shirts,4002.1800000000003
+18450788,Nautica,Men Teal Blue And White Slim Fit Micro Checked Pure Cotton Casual Shirt,4.3,118,4299.0,INR,shirts,507282.0
+18690268,Dennis Lingo,Men Slim Fit Tropical Casual Shirt,4.6,5,399.79999999999995,INR,shirts,1998.9999999999998
+13770578,Nautica,Men Blue & Grey Checked Classic Fit Casual Shirt,4.4,53,1399.5,INR,shirts,74173.5
+13675502,Flying Machine,Men Teal Blue & Yellow Regular Fit Checked Casual Shirt,4.1,108,1799.0,INR,shirts,194292.0
+13775106,RARE RABBIT,Men Black Regular Fit Solid Casual Shirt,4.4,63,1649.5,INR,shirts,103918.5
+13470886,Roadster,The  Lifestyle Co Greenturn Women Teal Blue Solid Longline ECOVERO Sustainable Shirt,4.1,203,1399.0,INR,shirts,283997.0
+13722850,Roadster,X Discovery Adventures Women Olive Green Opaque Casual Shirt,4.4,39,999.5,INR,shirts,38980.5
+18443082,Marks & Spencer,Women Blue & White Pure Cotton Striped Longline Shirt,4.3,19,1699.15,INR,shirts,32283.850000000002
+20042586,Flying Machine,Men Off White Standard Slim Fit Printed Pure Cotton Casual Shirt,4.4,140,989.45,INR,shirts,138523.0
+20308496,Arrow,Men Black Original Slim Fit Pinstripes Opaque Pure Cotton Formal Shirt,4.3,70,2499.0,INR,shirts,174930.0
+20308670,Arrow,Men Self-Checked Original Slim Fit Formal Shirt,4.7,64,1439.4,INR,shirts,92121.6
+19999300,Dennis Lingo,Men Navy Blue Slim Fit Tartan Checked Casual Shirt,4.4,16,649.74,INR,shirts,10395.84
+19276504,Turtle,Men Beige Printed Cotton Slim Fit Casual Shirt,4.7,7,839.4,INR,shirts,5875.8
+19299798,Louis Philippe,Men Navy Blue Solid Slim Fit Formal Shirt,4.4,32,2799.0,INR,shirts,89568.0
+18903374,Levis,Women Blue Pure Cotton Casual Shirt,4.6,168,1429.45,INR,shirts,240147.6
+18947596,KASSUALLY,Women Green Slim Fit Denim Outdoor Denim Shorts,4.7,9,593.6700000000001,INR,shorts,5343.030000000001
+18946864,Cub McPaws,Girls Yellow Printed Shorts,4.5,20,704.53,INR,shorts,14090.599999999999
+18921438,Gini and Jony,Boys Black Denim Outdoor Shorts,4.6,28,1199.25,INR,shorts,33579.0
+13624708,Nike,Men Black Solid Standard Fit CHALLENGER DRI FIT Running Sports Shorts,4.4,376,1795.0,INR,shorts,674920.0
+18645102,DChica,Girls Black Skinny Fit High-Rise Cycling Shorts,4.3,16,281.53,INR,shorts,4504.48
+13695234,HRX by Hrithik Roshan,"HRX By Hrithik Roshan Women Medieval Blue,Wild Lime,Wet Weather Colourblock Regular Fit Bio-Wash Lifestyle Shorts",4.4,150,1049.3,INR,shorts,157395.0
+13610026,HRX by Hrithik Roshan,HRX By Hrithik Roshan Men Black Forest & Golden Poppy Colourblock Regular Fit Rapid-Dry Antimicrobial Running Shorts,4.2,84,1139.4,INR,shorts,95709.6
+14561272,ASICS,Court M 7In   Men Black Solid Mid-Rise Tennis Shorts,5.0,5,1149.5,INR,shorts,5747.5
+14494548,CUTECUMBER,Girls Pack Of 2 Printed Mid-Rise Regular Shorts,4.3,11,650.0,INR,shorts,7150.0
+14496210,CUTECUMBER,Girls Pack of 2 Floral Printed Mid-Rise Regular Shorts,4.6,46,650.0,INR,shorts,29900.0
+18942852,FITINC,Women Blue Skinny Fit High-Rise Training or Gym Sports Shorts with Antimicrobial Technology,4.4,14,449.54999999999995,INR,shorts,6293.699999999999
+18650484,CLUB A9,Women Pink Floral Printed Shorts,4.5,14,321.54,INR,shorts,4501.56
+19024468,Blackberrys,Men Pure Cotton Printed Slim Fit Shorts,4.1,9,1017.0,INR,shorts,9153.0
+17332648,Tommy Hilfiger,Women Red & Navy Blue Printed Chino Shorts,4.7,9,1799.4,INR,shorts,16194.6
+15177608,HRX by Hrithik Roshan,Boys Green Shorts,4.5,61,979.3,INR,shorts,59737.299999999996
+18947600,KASSUALLY,Women White Printed Slim Fit High-Rise Denim Outdoor Hot Pants Shorts,4.7,38,645.6600000000001,INR,shorts,24535.08
+18658050,Allen Solly,Men Brown Printed Slim Fit Shorts,4.6,13,1079.4,INR,shorts,14032.2
+13572038,Shae by SASSAFRAS,Women Green & Red Pure Cotton Printed Maxi Tiered Skirt,4.3,51,799.5999999999999,INR,skirts,40779.6
+17367638,Berrylush,Navy Blue Self-Design Bling it On Skirt,4.3,16,887.26,INR,skirts,14196.16
+17306258,Purple Feather,Women Solid Midi Pencil Skirt,4.2,81,434.71000000000004,INR,skirts,35211.51
+17367634,Berrylush,Black Animal Printed Wrap it Up Skirt,4.3,43,363.74,INR,skirts,15640.82
+13686682,Campus,Women White Mesh Walking Shoes,4.1,452,751.06,INR,sports-shoes,339479.12
+10667394,Campus,Men Navy Blue Mesh Madrid Running Shoes,4.1,35,944.37,INR,sports-shoes,33052.95
+20071104,ADIDAS,Men Striped Amalgo M Running Shoes,4.5,149,4299.0,INR,sports-shoes,640551.0
+20072084,ADIDAS,Women Woven Design Runfalcon 3.0 Running Shoes,4.1,22,5999.0,INR,sports-shoes,131978.0
+20071558,ADIDAS,Men Striped Pep Run M Running Shoes,4.1,231,3599.0,INR,sports-shoes,831369.0
+20071402,ADIDAS,Men Rokr Trail Trekking Shoes,4.5,149,4599.0,INR,sports-shoes,685251.0
+20070948,ADIDAS,Men Hitrail Mid WPN Trekking Shoes,4.1,52,5999.0,INR,sports-shoes,311948.0
+20070966,ADIDAS,Men Colourblocked Hikelacer Trekking Shoes,4.2,36,4799.0,INR,sports-shoes,172764.0
+20071236,ADIDAS,Unisex Printed Predator Accuracy.4 Football Shoes,4.3,57,5299.0,INR,sports-shoes,302043.0
+14208408,TRASE,Boys Navy Blue & White Sand-I Running Shoes,4.2,20,999.0,INR,sports-shoes,19980.0
+11441718,Duke,Men Black & Red Woven Design Running Shoes,4.2,50,673.75,INR,sports-shoes,33687.5
+11627996,Yuuki,Men Black Mesh Running Shoes,4.2,56,989.6700000000001,INR,sports-shoes,55421.520000000004
+11986876,FAUSTO,Men Blue Mesh Walking Shoes,4.3,9,890.01,INR,sports-shoes,8010.09
+19334942,ELEVAR,Men Grey FLYBOLT Running Sports Shoes,4.3,6,5490.0,INR,sports-shoes,32940.0
+13484354,Puma,Women Black Eternity Nitro Running Shoes,4.3,19,12999.0,INR,sports-shoes,246981.0
+11960808,Campus,Men Navy Blue Running Shoes,4.2,76,659.56,INR,sports-shoes,50126.56
+19102564,Puma,Men Fluorescent Green Velocity Nitro 2 Running Shoes,4.3,58,8999.25,INR,sports-shoes,521956.5
+14208394,TRASE,Boys Black & White Relax-I Running Shoes,4.5,13,999.0,INR,sports-shoes,12987.0
+16880520,PUMA Hoops,Men Red Triple Mid Basketball Shoes,4.1,24,4049.55,INR,sports-shoes,97189.20000000001
+18356356,Nautica,Men Colourblocked & Woven Design Running Shoes,4.4,109,2199.6,INR,sports-shoes,239756.4
+18906230,Skechers,Women Black GO WALK STRETCH FIT-SPECIAL D Shoes,4.5,127,4499.4,INR,sports-shoes,571423.7999999999
+18373464,ADIDAS,Men Black Woven Design Hailcon Running Shoes,4.1,113,3599.0,INR,sports-shoes,406687.0
+16824638,Puma,Women Purple Electrify Nitro Turn Running Shoes,4.3,14,4999.5,INR,sports-shoes,69993.0
+18374802,ADIDAS,Women Black Woven Design SL20 X Marimekko Running Shoes,4.5,21,12999.0,INR,sports-shoes,272979.0
+16824670,Puma,Women Black Run XX Nitro Running Shoes,4.1,31,5499.45,INR,sports-shoes,170482.94999999998
+18374286,ADIDAS,Men White & Maroon Mickey Mouse Print Grand Court Tennis Shoes,4.2,22,5999.0,INR,sports-shoes,131978.0
+18373646,ADIDAS,Men Black Woven Design Immute Running Shoes,4.3,319,2469.35,INR,sports-shoes,787722.65
+18373380,ADIDAS,Men Grey Woven Design Adi Dash Running Shoes,4.2,73,3119.35,INR,sports-shoes,227712.55
+16864474,Puma,Men Orange & White Spike 22.2 Cricket Shoes,5.0,3,5599.2,INR,sports-shoes,16797.6
+18374978,ADIDAS,Women White Solid Courtpoint Tennis Shoes,4.4,94,4999.0,INR,sports-shoes,469906.0
+18906226,Skechers,Women Black GO WALK 4-ARRAY Shoes,4.4,93,3899.4,INR,sports-shoes,362644.2
+18374614,ADIDAS,Women Navy Blue & Orange Ultraboost 22 X Marimekko Running Shoes,4.3,11,14249.25,INR,sports-shoes,156741.75
+16305908,Campus,Unisex Kids Navy Blue Mesh Running Shoes,4.3,23,1259.1,INR,sports-shoes,28959.3
+16279696,Forever Glam by Pantaloons,Women Yellow Textile Running Non-Marking Shoes,4.3,6,1053.38,INR,sports-shoes,6320.280000000001
+13072098,Puma,Unisex Grey Orange Flash Running Shoes,4.7,7,2474.45,INR,sports-shoes,17321.149999999998
+19298764,Campus,Unisex Kids Yellow Mesh Running Shoes,4.6,71,1169.1,INR,sports-shoes,83006.09999999999
+18430170,Roadster,The  Lifestyle Co. Women Geometric Self Design Pullover,4.3,64,794.47,INR,sweaters,50846.08
+10349091,Monte Carlo,Men Mustard Yellow & Off-White Self Design Sweater,4.6,9,2840.0,INR,sweaters,25560.0
+21296678,Marks & Spencer,Women Acrylic Printed Pullover,4.6,22,1599.6,INR,sweaters,35191.2
+20721298,Juniors by Lifestyle,Girls Peach With Embellished Detail Sweater,4.7,9,389.35,INR,sweaters,3504.15
+19432310,Marks & Spencer,Men Teal Blue Solid Pullover,4.2,14,1599.6,INR,sweaters,22394.399999999998
+11843058,MANGO,Women Mustard Yellow Self Design Pullover Sweater,4.3,9,1942.5,INR,sweaters,17482.5
+20712132,Trendyol,Women Purple Acrylic Pullover Sweater,4.4,5,3239.1,INR,sweaters,16195.5
+11990920,Roadster,Women Pink Self Design Turtle Neck Pullover Sweater,4.3,179,713.58,INR,sweaters,127730.82
+19055422,Monte Carlo,Women Black Cardigan,4.2,18,1248.0,INR,sweaters,22464.0
+11990978,Roadster,Women Red & Grey Melange Abstract Self Design Pullover Sweater,4.4,302,779.6099999999999,INR,sweaters,235442.21999999997
+11972948,Mast & Harbour,Men Navy Blue & Grey Melange Colourblocked Pullover,4.1,213,1599.0,INR,sweaters,340587.0
+11990952,Roadster,Women Red Ribbed Pullover Sweater,4.3,449,662.6099999999999,INR,sweaters,297511.88999999996
+14279412,Harvard,Women Grey Extended Sleeve Pullover,4.2,47,740.6099999999999,INR,sweaters,34808.67
+18241626,Roadster,The  Lifestyle Co. Women Maroon & Black Ribbed Acrylic Sweater,4.5,25,645.6199999999999,INR,sweaters,16140.499999999996
+18241644,Roadster,The  Lifestyle Co. Women Pink Acrylic Pullover,4.3,55,759.6199999999999,INR,sweaters,41779.09999999999
+18240570,all about you,Women Navy Blue & Red Checked Pullover,4.3,53,874.6500000000001,INR,sweaters,46356.450000000004
+18240582,all about you,Women Maroon Cable Knit Pullover,4.4,39,874.6500000000001,INR,sweaters,34111.350000000006
+18337610,Roadster,Men Navy Blue Self-Striped Cardigan,4.3,32,758.6700000000001,INR,sweaters,24277.440000000002
+18241294,Roadster,Women Lavender & Off White Striped Pullover,4.3,90,1614.05,INR,sweaters,145264.5
+18241298,Roadster,The  Lifestyle Co. Women Lavender Self-Design Acrylic Sweater,4.3,59,599.7,INR,sweaters,35382.3
+18260104,Mast & Harbour,Men Black Solid Cardigan,4.5,62,815.6600000000001,INR,sweaters,50570.920000000006
+18820948,Tommy Hilfiger,Men White Printed Organic Cotton Sweatshirt,4.3,24,3359.4,INR,sweatshirts,80625.6
+18825046,Tommy Hilfiger,Men Red Printed Hooded Organic Cotton Sweatshirt,4.2,29,2759.4,INR,sweatshirts,80022.6
+18929548,Mast & Harbour,Men Mint GreenGraphic Printed Sweatshirt,4.4,79,767.52,INR,sweatshirts,60634.08
+9867517,ether,Men Green Solid Hooded Sweatshirt,4.1,416,649.5,INR,sweatshirts,270192.0
+6510138,Roadster,Men Black Solid Hooded Sweatshirt,4.3,959,999.5,INR,sweatshirts,958520.5
+18071360,ether,Men Olive Green Solid Hooded Sweatshirt,4.2,84,1399.0,INR,sweatshirts,117516.0
+18825178,Tommy Hilfiger,Men White Brand Logo Printed Hooded Pure Cotton Sweatshirt,4.3,37,2999.4,INR,sweatshirts,110977.8
+18830500,White Snow,Girls Beige Heart Printed Hooded Sweatshirt,4.2,10,639.6,INR,sweatshirts,6396.0
+9656079,Sztori,Plus Size Men Olive Green  Black Striped Hooded Sweatshirt,4.2,294,1249.5,INR,sweatshirts,367353.0
+20389784,SPYKAR,Men Pink Printed Full Sleeve Hooded Sweatshirt,4.6,9,1349.55,INR,sweatshirts,12145.949999999999
+18820580,Tommy Hilfiger,Men Navy Blue Solid Hooded Sweatshirt,4.2,33,3359.4,INR,sweatshirts,110860.2
+10388101,Allen Solly Woman,Women Black Solid Sweatshirt,4.5,4,899.5,INR,sweatshirts,3598.0
+17121312,Marks & Spencer,Women Black Solid Bikini Top T527897BBLACK,4.5,30,999.5999999999999,INR,swim-tops,29987.999999999996
+17844560,DREAM WEAVERZ,Black Wooden Finish Center Table Cover,4.1,7,499.5,INR,table-covers,3496.5
+18937628,her by invictus,Printed A-Line Top,4.2,29,475.32000000000005,INR,tops,13784.28
+18990292,HILL STREET,Women Fluorescent Green Solid Pure Cotton Tank Crop Top,4.5,15,594.6500000000001,INR,tops,8919.750000000002
+18972748,Zink London,Yellow Geometric Print Top,4.3,7,524.65,INR,tops,3672.5499999999997
+18904492,Levis,Women Sage Green Self Design Slim Fit Regular Top,4.4,50,1679.2,INR,tops,83960.0
+13583566,Chemistry,Navy Blue Regular Top with Embroidered Detail,4.5,20,1499.0,INR,tops,29980.0
+13611204,Roadster,The  Lifestyle Co Pink Open Knit Crochet Knit Blouson Top,4.2,266,793.3800000000001,INR,tops,211039.08000000002
+18657642,max,Coral Tie-Up Neck Extended Sleeves Top,4.5,6,359.1,INR,tops,2154.6000000000004
+20222156,CODE by Lifestyle,Solid V-Neck Top,4.1,47,559.3,INR,tops,26287.1
+20222142,CODE by Lifestyle,Solid Cotton Puff Sleeves Top,4.5,40,374.25,INR,tops,14970.0
+20092320,Forever New,Women Black Solid Keyhole Neck Top,4.4,26,1120.0,INR,tops,29120.0
+18639246,Jockey,Women Red Sleeveless Solid Tank Top,4.5,139,329.0,INR,tops,45731.0
+17628058,Maishi,Black Cotton Slub Regular Top,4.6,7,575.64,INR,tops,4029.48
+17628394,ONLY,Women Yellow V-Neck Boxy Crop Top,4.2,25,874.6500000000001,INR,tops,21866.250000000004
+17178948,FOREVER 21,Women Grey Solid Cloud Wash Crop Cotton Tank Top,4.4,11,524.5,INR,tops,5769.5
+17108574,4WRD by Dressberry,Black Solid Noughties Spaghetti Top,4.2,68,431.64,INR,tops,29351.52
+18879656,MANGO,Women Pink Solid Top,4.3,165,1253.7,INR,tops,206860.5
+18626976,ONLY,Pink & Blue Floral Print Crop Top,4.2,78,804.6500000000001,INR,tops,62762.700000000004
+19018090,DressBerry,Burgundy Pure Cotton Solid Top,4.1,102,799.0,INR,tops,81498.0
+17268524,H&M,Women Brown Halter Neck Cropped Top,4.4,203,524.25,INR,tops,106422.75
+18854764,KAMI KUBI,Olive Green Striped Top,5.0,4,493.62,INR,tops,1974.48
+18904472,Levis,Off White Mandarin Collar High Low Shirt Style Top,4.4,44,988.5699999999999,INR,tops,43497.079999999994
+17255462,NEUDIS,Women Satin Green Embillished Solid A-Line Top,4.3,71,689.54,INR,tops,48957.34
+17120826,Hancock,Maroon & Navy Blue Checked Mandarin Collar Top,4.1,52,799.5999999999999,INR,tops,41579.2
+18814970,Berrylush,Maroon Solid Resort Wear Top,4.6,75,493.62,INR,tops,37021.5
+17257582,FableStreet,Blue Pure Cotton Top,4.2,37,987.25,INR,tops,36528.25
+17255498,NEUDIS,Beige Keyhole Neck Satin Top,4.1,44,689.54,INR,tops,30339.76
+19017944,DressBerry,Rust Tank Top,4.1,94,799.0,INR,tops,75106.0
+17114132,HERE&NOW,Women Black Fitted Crop Top,4.1,51,999.0,INR,tops,50949.0
+18948348,Madame,Navy Blue Print Crop Top,4.2,11,759.5999999999999,INR,tops,8355.599999999999
+17944580,ONLY,Multicoloured Floral Print Top,4.2,76,804.6500000000001,INR,tops,61153.40000000001
+20383782,Chemistry,Solid Pure Cotton Corduroy Top,4.5,17,1299.0,INR,tops,22083.0
+17938374,CODE by Lifestyle,White & Turquoise Blue Floral Print Top,4.4,17,699.3,INR,tops,11888.099999999999
+8675767,MANGO,Women Purple & White Printed Top,4.2,15,1570.5,INR,tops,23557.5
+17973634,InWeave,Women Teal Colourblocked Top,4.4,21,549.75,INR,tops,11544.75
+7117598,ONLY,Women Black Solid Top,4.2,40,1499.0,INR,tops,59960.0
+18847712,KALINI,Beige & old moss green Tie-Up Neck Top,4.4,9,592.5,INR,tops,5332.5
+8365569,Nun,Women Navy Blue & White Printed Crop A-Line Top,4.9,14,448.5,INR,tops,6279.0
+7581747,Annabelle by Pantaloons,Women Blue Printed Top,4.3,50,674.25,INR,tops,33712.5
+9818669,Globus,Women Pink Solid Top,4.3,8,399.6,INR,tops,3196.8
+8367605,Berrylush,Women Grey Solid Bardot Top,4.3,93,490.20000000000005,INR,tops,45588.600000000006
+7183090,Globus,Women Peach-Coloured Printed Top,4.2,29,402.69000000000005,INR,tops,11678.010000000002
+9557519,MANGO,Women Yellow Self Design Top,5.0,1,1618.5,INR,tops,1618.5
+17976710,MANGO,White & Red Pure Cotton Floral Embroidered Top,4.1,36,3590.0,INR,tops,129240.0
+14340794,MANGO,Beige Ribbed Fitted Top,4.1,82,1744.7,INR,tops,143065.4
+19410570,H&M,Women White Printed Cut-Out Top,4.3,44,1124.25,INR,tops,49467.0
+11811068,Honey by Pantaloons,Women Pink Floral Printed A-Line Top,4.4,15,649.35,INR,tops,9740.25
+17982570,H&M,Women Brown Lacing-Detail Cut-Out Top,4.5,52,749.25,INR,tops,38961.0
+17950338,PURVAJA,Women Peach-Coloured Crop Top,4.2,16,417.80999999999995,INR,tops,6684.959999999999
+11876926,AND,Women Blue Printed Top,4.4,57,399.79999999999995,INR,tops,22788.6
+11538822,Ajile by Pantaloons,Women Grey Melange Printed Top,4.2,17,551.08,INR,tops,9368.36
+7326508,MISH,Women Pink Solid Top,4.7,25,824.45,INR,tops,20611.25
+586846,Cation,Women Black Top,4.5,11,539.4,INR,tops,5933.4
+18000968,Harpa,Women Maroon V-Neck Casual Top,4.4,21,545.48,INR,tops,11455.08
+18962100,Nike,Women Black Brand Logo Printed Dri Fit Top,4.4,72,2495.0,INR,tops,179640.0
+18974594,SPACES,Red & Blue Cotton Towel Set 500 GSM,4.3,16,1139.6999999999998,INR,towel-set,18235.199999999997
+18974634,AUSTIVO,Men Navy Blue & White Checked Slim Fit Plus Size Track Pant,4.5,35,759.5999999999999,INR,track-pants,26585.999999999996
+18970176,Allen Solly Junior,Boys Solid Joggers,4.6,30,607.62,INR,track-pants,18228.6
+18138806,max,Boys Blue Solid Track Pant,4.6,28,479.2,INR,track-pants,13417.6
+18670518,max,Girls Pink & White Regular Fit Printed Pure Cotton Joggers,4.9,8,479.2,INR,track-pants,3833.6
+17628782,Roadster,The  Lifestyle Co. Women Rust Orange Ribbed Wide Leg Belted Track Pants,4.1,81,1999.0,INR,track-pants,161919.0
+17628712,Roadster,Women Olive Green Solid High-Rise Slim Fit Joggers,4.3,65,1799.0,INR,track-pants,116935.0
+18537496,Bannos Swagger,Women Grey Solid Joggers,5.0,5,407.76,INR,track-pants,2038.8
+18970196,Allen Solly Junior,Boys Solid Mid-Rise Sports Joggers With Side Taping & Brand Logo Print,4.3,12,1049.3,INR,track-pants,12591.599999999999
+18970104,Allen Solly Junior,Boys Colourblocked Sports Joggers With Side Taping & Brand Logo Print,4.8,14,749.5,INR,track-pants,10493.0
+17663904,Pantaloons Junior,Boys Black Pure Cotton Trousers With Belt,4.6,25,662.22,INR,trousers,16555.5
+17760062,H&M,Women Brown Solid Low Waist Flared Twill Trousers,4.2,608,1124.25,INR,trousers,683544.0
+17647372,bebe,Women Black Season Staple High-Rise Parallel Trousers,4.2,38,2899.0,INR,trousers,110162.0
+17760038,H&M,Women Brown Pattern-knit trousers,4.3,128,974.25,INR,trousers,124704.0
+19289426,Van Heusen Woman,Women Olive Green Casual Parallel Trousers,4.1,13,2374.05,INR,trousers,30862.65
+10019547,XYXX,Men IntelliSoft Antimicrobial Micro Modal Pack of 3 Illuminati Trunks XYTRNK3PCKN371,4.7,9,1029.42,INR,trunk,9264.78
+10591036,Van Heusen,Men Colour Fresh No Ride Up Trunks,4.5,65,529.0,INR,trunk,34385.0
+20042464,XYXX,Men Traq Silver Cotton Trunk,4.2,18,257.64,INR,trunk,4637.5199999999995
+17352320,ether,Kora Collection Blue Sustainable Naturally Dyed Fabric Solid Pure Cotton T-shirt,4.4,70,582.47,INR,tshirts,40772.9
+17403950,Mast & Harbour,Men Mint Green Typography Printed T-shirt,4.2,200,899.0,INR,tshirts,179800.0
+8901821,UNDER ARMOUR,Men Charcoal Grey Big Logo SS Printed T-shirt,4.3,64,1999.0,INR,tshirts,127936.0
+18817326,Tommy Hilfiger,Men Beige & Navy Blue Striped Pure Cotton T-shirt,4.4,58,1679.4,INR,tshirts,97405.20000000001
+8426447,WROGN,Men Navy Blue Striped Henley Neck T-shirt,4.2,514,799.5,INR,tshirts,410943.0
+20355284,Roadster,The  Life Co. Round Neck Raglan Sleeves Typography Printed T-shirt,4.2,74,469.53,INR,tshirts,34745.22
+18818696,Tommy Hilfiger,Men White & Black Brand Logo Printed Organic Cotton T-shirt,4.4,58,1199.4,INR,tshirts,69565.20000000001
+9213113,Roadster,The  Lifestyle Co Men White Printed Round Neck T-shirt,4.1,994,399.5,INR,tshirts,397103.0
+13511732,Puma,Men Black Solid Run Fav 1/4 Zip T-Shirt,4.4,167,3999.0,INR,tshirts,667833.0
+13615634,U.S. Polo Assn.,Men Red Solid Mandarin Collar T-shirt,4.5,69,1019.4,INR,tshirts,70338.59999999999
+13502414,Puma,Men Navy Blue & White Performance Cat Printed dryCELL Round Neck T-shirt,4.3,327,1499.0,INR,tshirts,490173.0
+13621134,Roadster,The  Lifestyle Co Men Rust Brown Solid Applique Polo Collar T-shirt,4.1,312,699.5,INR,tshirts,218244.0
+17686030,Allen Solly Tribe,Men Navy Blue Solid T-shirt,4.3,23,1049.3,INR,tshirts,24133.899999999998
+13616400,Arrow New York,Men Beige Printed Round Neck Pure Cotton T-shirt,4.8,13,674.25,INR,tshirts,8765.25
+13480864,Aeropostale,Men White Printed Round Neck Pure Cotton T-shirt,4.2,13,1199.0,INR,tshirts,15587.0
+13622338,Roadster,The  Lifestyle Co Men Olive Green Solid Round Neck Pure Cotton T-shirt,4.4,54,404.55,INR,tshirts,21845.7
+16277914,Parx,Men Black Printed Polo Collar T-shirt,4.9,7,657.53,INR,tshirts,4602.71
+16292318,Bewakoof,Men White Printed Pockets T-shirt,4.2,17,559.6,INR,tshirts,9513.2
+19201678,Tokyo Talkies,Women Yellow Printed Extended Sleeves Slim Fit T-shirt,4.1,103,293.58,INR,tshirts,30238.739999999998
+16923916,Monte Carlo,Women Pack Of 2 Blue & Peach Solid V-Neck Pure Cotton T-shirt,4.8,13,626.25,INR,tshirts,8141.25
+20085320,BULLMER,Men Pack of 2 Navy Blue & Turquoise Blue Long Sleeves T-shirt,4.8,12,799.5999999999999,INR,tshirts,9595.199999999999
+12987894,AMERICAN EAGLE OUTFITTERS,Women White & Yellow Printed Round Neck T-shirt,4.4,5,359.79999999999995,INR,tshirts,1798.9999999999998
+12953958,Allen Solly,Men Maroon Solid Polo Collar Pure Cotton T-shirt,4.4,409,599.4,INR,tshirts,245154.59999999998
+22629260,max,Striped Polo Collar Short Sleeves T-shirt,4.4,7,479.4,INR,tshirts,3355.7999999999997
+19291812,Mad Over Print,Women Black Love Wins Oversize T-shirt,4.8,5,671.58,INR,tshirts,3357.9
+19206288,FERANOID,Men Purple Henley Neck Bio Finish T-shirt,4.2,21,599.5,INR,tshirts,12589.5
+16287616,Juniper,Lime Green Mandarin Collar Printed Tunic,4.3,346,636.51,INR,tunics,220232.46
+16287462,Juniper,Yellow Mandarin Collar Printed Tunic,4.3,335,740.43,INR,tunics,248044.05
+16293014,Nayo,Navy Blue & Maroon Printed Tunic,4.2,514,683.43,INR,tunics,351283.01999999996
+16293018,Nayo,Black & White Printed Cotton Kurti,4.3,687,683.43,INR,tunics,469516.41
+17716590,Tommy Hilfiger,Women Black Leather Zip Around Wallet,4.5,39,2579.4,INR,wallets,100596.6
+9452773,Louis Philippe,Men Brown Solid Leather Two Fold Wallet,4.3,401,1349.25,INR,wallets,541049.25
+18864968,Lavie,Glossy Sacy Women Pink Animal Textured Zip Around Wallet,4.4,21,699.6500000000001,INR,wallets,14692.650000000001
+9029979,Hidesign,Men Brown Solid Leather Two Fold Wallet,4.4,8,2595.0,INR,wallets,20760.0
+16295388,LOUIS STITCH,Men Brown Leather Two Fold Wallet,4.4,10,1050.0,INR,wallets,10500.0
+17981742,MVMT,Men Black Raptor Analogue Watch 28000152-D,4.5,11,10416.0,INR,watches,114576.0
+17697474,Timex,Women White Dial & Gold Toned Analogue Watch TWEL11422,4.9,8,1596.0,INR,watches,12768.0
+8076639,French Connection,Women Charcoal Grey Analogue Watch FC1317RGM,4.4,563,2500.0,INR,watches,1407500.0
+21948792,Adwitiya Collection,Women Embellished Dial & Bracelet Style Straps Analogue Watch-ACBW1030,4.1,7,2718.5200000000004,INR,watches,19029.640000000003
+2466414,Daniel Klein,Women Brown Analogue Watch DK11467-6,4.4,940,3266.5,INR,watches,3070510.0
+11791782,CASIO,Youth Digital Women Red Digital Watch I117 DW-291H-1BVDF,4.6,29,3235.5,INR,watches,93829.5
+8481603,French Connection,Women Silver-Toned Analogue Watch FCN0001B,4.5,149,1875.0,INR,watches,279375.0
+16896006,GUESS,Women White Patterned Dial & White Straps Analogue Watch GW0359L2,5.0,22,4895.0,INR,watches,107690.0
+19280114,Fastrack,Men Black Brass Dial & Black Stainless Steel Straps Analogue Watch 3247NM03,4.3,17,2636.0,INR,watches,44812.0
