@@ -114,26 +114,30 @@ Datasets include:
 # 📁 Project Structure
 
 ```
-FMCG-Sales-Analytics/
+FMCG-Analytics/
 
 │
-├── 01_Data_Generation
+├── notebooks
+|     ├── 01_Data_Generation
+│     ├── 02_Bronze
+│     ├── 03_Silver
+│     ├── 04_Gold
+│     └── 05_SQL
 │
-├── 02_Bronze
+├── architecture
+│     └── architecture.png
 │
-├── 03_Silver
-│
-├── 04_Gold
-│
-├── 05_SQL
+├── data
+│     ├── bronze --
+│     ├── gold --
+│     ├── raw --
+│     └── silver --
 │
 ├── Dashboard
 │   ├── FMCG_Dashboard.pbix
 │   └── Dashboard.png
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
 
 ---
