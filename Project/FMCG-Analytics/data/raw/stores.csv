@@ -1,0 +1,101 @@
+store_id,store_name,city,state
+1,Store_1,Pune,Maharashtra
+2,Store_2,Lucknow,Uttar Pradesh
+3,Store_3,Bangalore,Karnataka
+4,Store_4,Hyderabad,Telangana
+5,Store_5,Chennai,Tamil Nadu
+6,Store_6,Hyderabad,Telangana
+7,Store_7,Bangalore,Karnataka
+8,Store_8,Pune,Maharashtra
+9,Store_9,Pune,Maharashtra
+10,Store_10,Mumbai,Maharashtra
+11,Store_11,Lucknow,Uttar Pradesh
+12,Store_12,Lucknow,Uttar Pradesh
+13,Store_13,Pune,Maharashtra
+14,Store_14,Pune,Maharashtra
+15,Store_15,Delhi,Delhi
+16,Store_16,Kolkata,West Bengal
+17,Store_17,Mumbai,Maharashtra
+18,Store_18,Mumbai,Maharashtra
+19,Store_19,Chennai,Tamil Nadu
+20,Store_20,Kolkata,West Bengal
+21,Store_21,Bangalore,Karnataka
+22,Store_22,Delhi,Delhi
+23,Store_23,Pune,Maharashtra
+24,Store_24,Kolkata,West Bengal
+25,Store_25,Pune,Maharashtra
+26,Store_26,Mumbai,Maharashtra
+27,Store_27,Delhi,Delhi
+28,Store_28,Mumbai,Maharashtra
+29,Store_29,Hyderabad,Telangana
+30,Store_30,Chennai,Tamil Nadu
+31,Store_31,Chennai,Tamil Nadu
+32,Store_32,Lucknow,Uttar Pradesh
+33,Store_33,Kolkata,West Bengal
+34,Store_34,Pune,Maharashtra
+35,Store_35,Lucknow,Uttar Pradesh
+36,Store_36,Bangalore,Karnataka
+37,Store_37,Kolkata,West Bengal
+38,Store_38,Delhi,Delhi
+39,Store_39,Lucknow,Uttar Pradesh
+40,Store_40,Mumbai,Maharashtra
+41,Store_41,Hyderabad,Telangana
+42,Store_42,Pune,Maharashtra
+43,Store_43,Mumbai,Maharashtra
+44,Store_44,Mumbai,Maharashtra
+45,Store_45,Bangalore,Karnataka
+46,Store_46,Kolkata,West Bengal
+47,Store_47,Hyderabad,Telangana
+48,Store_48,Kolkata,West Bengal
+49,Store_49,Lucknow,Uttar Pradesh
+50,Store_50,Chennai,Tamil Nadu
+51,Store_51,Lucknow,Uttar Pradesh
+52,Store_52,Kolkata,West Bengal
+53,Store_53,Lucknow,Uttar Pradesh
+54,Store_54,Mumbai,Maharashtra
+55,Store_55,Lucknow,Uttar Pradesh
+56,Store_56,Lucknow,Uttar Pradesh
+57,Store_57,Kolkata,West Bengal
+58,Store_58,Mumbai,Maharashtra
+59,Store_59,Hyderabad,Telangana
+60,Store_60,Delhi,Delhi
+61,Store_61,Mumbai,Maharashtra
+62,Store_62,Delhi,Delhi
+63,Store_63,Kolkata,West Bengal
+64,Store_64,Mumbai,Maharashtra
+65,Store_65,Bangalore,Karnataka
+66,Store_66,Chennai,Tamil Nadu
+67,Store_67,Bangalore,Karnataka
+68,Store_68,Bangalore,Karnataka
+69,Store_69,Kolkata,West Bengal
+70,Store_70,Pune,Maharashtra
+71,Store_71,Lucknow,Uttar Pradesh
+72,Store_72,Chennai,Tamil Nadu
+73,Store_73,Pune,Maharashtra
+74,Store_74,Bangalore,Karnataka
+75,Store_75,Bangalore,Karnataka
+76,Store_76,Pune,Maharashtra
+77,Store_77,Pune,Maharashtra
+78,Store_78,Delhi,Delhi
+79,Store_79,Chennai,Tamil Nadu
+80,Store_80,Lucknow,Uttar Pradesh
+81,Store_81,Pune,Maharashtra
+82,Store_82,Pune,Maharashtra
+83,Store_83,Delhi,Delhi
+84,Store_84,Chennai,Tamil Nadu
+85,Store_85,Chennai,Tamil Nadu
+86,Store_86,Hyderabad,Telangana
+87,Store_87,Mumbai,Maharashtra
+88,Store_88,Mumbai,Maharashtra
+89,Store_89,Bangalore,Karnataka
+90,Store_90,Kolkata,West Bengal
+91,Store_91,Kolkata,West Bengal
+92,Store_92,Chennai,Tamil Nadu
+93,Store_93,Lucknow,Uttar Pradesh
+94,Store_94,Mumbai,Maharashtra
+95,Store_95,Hyderabad,Telangana
+96,Store_96,Lucknow,Uttar Pradesh
+97,Store_97,Kolkata,West Bengal
+98,Store_98,Pune,Maharashtra
+99,Store_99,Pune,Maharashtra
+100,Store_100,Mumbai,Maharashtra

@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,price
+1,Iure,Dairy,Nestle,236.96
+2,Ratione,Snacks,Parle,40.82
+3,Distinctio,Dairy,HUL,239.86
+4,Vel,Beverages,Nestle,499.32
+5,Saepe,Household,ITC,349.33
+6,Aperiam,Household,Amul,456.66
+7,Neque,Beverages,Nestle,174.61
+8,Animi,Snacks,Nestle,80.57
+9,Ipsa,Dairy,Amul,300.98
+10,Facilis,Personal Care,ITC,497.42
+11,Ut,Dairy,HUL,237.78
+12,Culpa,Dairy,ITC,67.61
+13,Quam,Beverages,Amul,332.44
+14,Sint,Dairy,Amul,435.44
+15,Nisi,Household,ITC,446.28
+16,Aut,Household,HUL,417.16
+17,Delectus,Household,ITC,370.21
+18,Inventore,Personal Care,ITC,170.01
+19,Ullam,Personal Care,HUL,477.72
+20,Sint,Household,Nestle,63.79
+21,A,Beverages,Nestle,227.3
+22,Odio,Personal Care,Dabur,287.06
+23,Quo,Dairy,Parle,289.61
+24,Alias,Beverages,ITC,189.73
+25,Distinctio,Household,Amul,44.69
+26,Mollitia,Personal Care,Parle,169.98
+27,Non,Beverages,Parle,263.56
+28,Quibusdam,Snacks,Amul,251.45
+29,Recusandae,Beverages,HUL,425.78
+30,Unde,Personal Care,Nestle,386.05
+31,Eum,Dairy,Dabur,407.47
+32,Vitae,Dairy,Parle,314.52
+33,Officia,Dairy,Nestle,312.32
+34,Minima,Personal Care,Nestle,106.6
+35,Totam,Personal Care,HUL,188.49
+36,Dolores,Snacks,Dabur,291.83
+37,Fuga,Household,Nestle,88.1
+38,Magni,Beverages,Nestle,378.13
+39,Sed,Snacks,ITC,221.52
+40,Magnam,Personal Care,Dabur,197.63
+41,Aliquam,Personal Care,Parle,306.19
+42,Cumque,Beverages,Dabur,95.56
+43,Voluptates,Dairy,Nestle,343.5
+44,Sapiente,Personal Care,ITC,337.73
+45,Ex,Household,Parle,232.18
+46,Quibusdam,Personal Care,Dabur,382.37
+47,Sunt,Beverages,HUL,226.36
+48,Itaque,Personal Care,Amul,345.67
+49,Mollitia,Household,Parle,340.22
+50,Voluptate,Beverages,Dabur,209.73
+51,Recusandae,Dairy,Nestle,23.69
+52,Officiis,Personal Care,Dabur,388.33
+53,Adipisci,Personal Care,HUL,177.5
+54,Possimus,Beverages,ITC,378.57
+55,Ipsam,Snacks,Dabur,202.5
+56,Aperiam,Snacks,Parle,288.19
+57,Ipsa,Personal Care,Nestle,210.59
+58,Vel,Beverages,ITC,29.0
+59,Dicta,Beverages,HUL,296.36
+60,Temporibus,Dairy,ITC,360.56
+61,Nihil,Household,HUL,75.28
+62,Voluptatem,Beverages,HUL,102.5
+63,Porro,Dairy,ITC,419.37
+64,Nesciunt,Personal Care,Nestle,229.62
+65,Aperiam,Beverages,Dabur,229.12
+66,Harum,Household,Parle,57.75
+67,Neque,Personal Care,Amul,182.97
+68,Vel,Personal Care,Dabur,56.66
+69,Voluptatum,Beverages,Parle,264.78
+70,Nihil,Personal Care,HUL,369.14
+71,Atque,Snacks,Dabur,69.35
+72,Quis,Personal Care,Dabur,103.28
+73,Saepe,Snacks,Amul,56.17
+74,Eum,Household,ITC,382.13
+75,Nulla,Dairy,ITC,346.94
+76,Iure,Dairy,Amul,324.94
+77,Possimus,Dairy,HUL,434.84
+78,Sequi,Personal Care,Dabur,231.09
+79,Velit,Household,ITC,323.06
+80,Sunt,Personal Care,Parle,46.96
+81,Minus,Dairy,Nestle,169.0
+82,Hic,Household,Nestle,47.31
+83,Consectetur,Personal Care,Nestle,329.44
+84,Impedit,Beverages,Parle,305.16
+85,Placeat,Household,ITC,298.56
+86,Nostrum,Beverages,ITC,456.34
+87,Eligendi,Dairy,Amul,110.35
+88,Optio,Dairy,ITC,260.66
+89,Cupiditate,Beverages,ITC,69.68
+90,Voluptas,Personal Care,Amul,60.48
+91,Vel,Snacks,Nestle,138.92
+92,Odit,Household,ITC,271.55
+93,Impedit,Dairy,Dabur,194.67
+94,Animi,Personal Care,ITC,216.21
+95,Temporibus,Personal Care,Amul,306.99
+96,Nobis,Personal Care,Nestle,178.25
+97,Quae,Dairy,Amul,205.55
+98,Mollitia,Personal Care,Amul,428.75
+99,Accusantium,Dairy,Dabur,180.01
+100,Dolorum,Dairy,Amul,87.89
+101,Omnis,Personal Care,HUL,484.49
+102,Suscipit,Household,Dabur,305.62
+103,Autem,Beverages,HUL,288.28
+104,Porro,Personal Care,Dabur,341.66
+105,Autem,Dairy,Nestle,330.09
+106,Repudiandae,Household,Parle,193.68
+107,Mollitia,Personal Care,HUL,106.53
+108,Totam,Snacks,HUL,474.88
+109,Amet,Household,Dabur,128.74
+110,Sed,Snacks,Dabur,57.04
+111,Consequatur,Beverages,Parle,390.02
+112,Ab,Dairy,Nestle,337.73
+113,Praesentium,Dairy,Dabur,306.68
+114,Iure,Snacks,Dabur,106.81
+115,Eveniet,Dairy,Dabur,366.17
+116,Magnam,Beverages,ITC,194.86
+117,Pariatur,Snacks,ITC,313.09
+118,Doloremque,Household,Dabur,276.33
+119,Perspiciatis,Personal Care,ITC,453.91
+120,Quam,Snacks,HUL,345.59
+121,Ducimus,Dairy,ITC,241.61
+122,Sed,Personal Care,ITC,261.4
+123,Commodi,Household,Dabur,412.11
+124,Ad,Dairy,Dabur,439.04
+125,Minus,Beverages,Amul,250.68
+126,Officiis,Personal Care,Parle,468.46
+127,Necessitatibus,Dairy,Nestle,156.83
+128,Animi,Snacks,HUL,235.67
+129,Rem,Dairy,Dabur,418.9
+130,Similique,Beverages,Dabur,412.02
+131,Deserunt,Personal Care,Nestle,219.15
+132,Voluptatum,Household,Parle,199.5
+133,Dolor,Household,Nestle,199.96
+134,Quibusdam,Beverages,HUL,466.8
+135,Dolore,Personal Care,Dabur,86.05
+136,Sed,Personal Care,ITC,354.11
+137,Ut,Snacks,Amul,245.17
+138,Sunt,Dairy,Nestle,454.81
+139,Consequatur,Beverages,HUL,123.51
+140,Ea,Snacks,Parle,471.31
+141,Ducimus,Dairy,Parle,223.16
+142,Molestias,Personal Care,Dabur,164.55
+143,Maiores,Beverages,Dabur,221.52
+144,Sed,Dairy,ITC,50.15
+145,Ipsum,Household,Parle,277.31
+146,Dicta,Dairy,Parle,136.13
+147,Laborum,Snacks,HUL,226.03
+148,Excepturi,Dairy,HUL,135.47
+149,Facilis,Household,Dabur,338.9
+150,Officiis,Beverages,Parle,487.83
+151,Aspernatur,Beverages,Parle,281.16
+152,Excepturi,Dairy,Parle,29.76
+153,Dignissimos,Household,Nestle,325.12
+154,Architecto,Personal Care,HUL,378.71
+155,Reprehenderit,Personal Care,Nestle,185.51
+156,Nam,Beverages,Parle,372.89
+157,Nemo,Personal Care,Dabur,41.28
+158,Ipsa,Dairy,HUL,410.48
+159,Iusto,Snacks,Amul,243.02
+160,Enim,Household,Amul,107.49
+161,Vitae,Snacks,Nestle,363.7
+162,Suscipit,Household,Nestle,160.85
+163,Eligendi,Beverages,Dabur,445.18
+164,Ad,Personal Care,HUL,267.38
+165,Quam,Dairy,ITC,141.59
+166,Quisquam,Snacks,HUL,191.35
+167,Sit,Beverages,Amul,179.32
+168,Vitae,Beverages,HUL,229.74
+169,Quisquam,Household,Amul,231.07
+170,Vero,Household,HUL,487.39
+171,Inventore,Household,Amul,258.81
+172,Quae,Dairy,HUL,404.55
+173,Ipsam,Household,Nestle,226.69
+174,Occaecati,Snacks,Parle,161.01
+175,Quae,Beverages,Nestle,177.4
+176,Iusto,Personal Care,HUL,234.04
+177,Consectetur,Household,Dabur,351.09
+178,Velit,Personal Care,ITC,40.33
+179,Hic,Personal Care,Parle,499.11
+180,Commodi,Personal Care,Amul,490.41
+181,Ullam,Beverages,Nestle,342.17
+182,Veritatis,Household,HUL,266.28
+183,Labore,Snacks,Nestle,88.53
+184,Porro,Dairy,Amul,395.03
+185,Vero,Beverages,Dabur,52.27
+186,Reprehenderit,Personal Care,HUL,203.77
+187,Ipsa,Dairy,Nestle,310.45
+188,Repellat,Household,HUL,198.57
+189,Saepe,Beverages,Parle,86.09
+190,Veritatis,Personal Care,ITC,170.91
+191,Laboriosam,Personal Care,Dabur,481.05
+192,Unde,Beverages,Amul,109.3
+193,Ratione,Dairy,ITC,458.5
+194,Minima,Beverages,HUL,391.98
+195,Sed,Household,Dabur,498.26
+196,Voluptatibus,Personal Care,Amul,459.91
+197,Quaerat,Household,Dabur,78.87
+198,Doloribus,Beverages,ITC,102.88
+199,Repudiandae,Household,Nestle,409.05
+200,Fugit,Personal Care,Amul,186.76
+201,Deserunt,Beverages,Parle,280.24
+202,Eveniet,Personal Care,Dabur,361.67
+203,Deleniti,Snacks,HUL,264.2
+204,Qui,Beverages,Dabur,400.19
+205,Minus,Snacks,ITC,32.62
+206,Excepturi,Dairy,Parle,197.08
+207,Quos,Dairy,Dabur,313.74
+208,Fuga,Beverages,Nestle,168.46
+209,A,Household,Parle,217.18
+210,Fugiat,Household,Parle,55.4
+211,Ex,Personal Care,Amul,55.6
+212,Molestiae,Household,Amul,268.33
+213,Nam,Snacks,Parle,327.1
+214,Commodi,Snacks,Dabur,227.66
+215,Esse,Beverages,Nestle,268.69
+216,Maxime,Personal Care,Dabur,97.74
+217,Sit,Snacks,HUL,474.79
+218,Minima,Dairy,HUL,426.05
+219,Hic,Personal Care,Dabur,324.83
+220,Adipisci,Dairy,HUL,80.08
+221,Deleniti,Personal Care,Parle,276.07
+222,Adipisci,Dairy,Amul,100.95
+223,Libero,Dairy,Dabur,102.18
+224,Iste,Dairy,Amul,452.96
+225,Quos,Personal Care,Parle,39.77
+226,Quis,Beverages,Nestle,41.82
+227,Cupiditate,Dairy,HUL,332.54
+228,Occaecati,Dairy,ITC,316.69
+229,A,Beverages,ITC,446.72
+230,Sint,Dairy,HUL,328.12
+231,Necessitatibus,Personal Care,ITC,137.54
+232,Nihil,Household,HUL,237.7
+233,Quia,Beverages,Dabur,231.01
+234,Dicta,Household,ITC,117.93
+235,Explicabo,Dairy,Dabur,170.04
+236,Quidem,Personal Care,Amul,494.25
+237,Odit,Personal Care,ITC,82.77
+238,Debitis,Personal Care,Parle,289.59
+239,Optio,Personal Care,Dabur,243.91
+240,Officia,Personal Care,ITC,139.0
+241,Nostrum,Beverages,Nestle,159.3
+242,Rerum,Household,Parle,220.7
+243,Libero,Snacks,HUL,468.2
+244,Fugit,Personal Care,Dabur,386.3
+245,Dicta,Household,Parle,244.07
+246,Quam,Personal Care,ITC,31.12
+247,Ducimus,Household,Parle,239.47
+248,Ab,Snacks,Dabur,300.01
+249,Molestias,Beverages,Nestle,155.05
+250,Incidunt,Dairy,Amul,342.81
+251,Harum,Personal Care,Parle,23.93
+252,Sint,Beverages,ITC,84.29
+253,Sint,Personal Care,Amul,195.57
+254,Ipsa,Household,HUL,41.72
+255,Quo,Beverages,Parle,289.67
+256,Facere,Personal Care,Parle,158.53
+257,Labore,Household,Parle,236.17
+258,Quos,Dairy,HUL,416.15
+259,Adipisci,Dairy,Amul,313.3
+260,Delectus,Snacks,Nestle,209.07
+261,Inventore,Personal Care,Parle,470.7
+262,Quidem,Snacks,Dabur,309.18
+263,Nostrum,Household,Parle,39.32
+264,Qui,Beverages,Dabur,362.52
+265,Aliquid,Household,Parle,239.35
+266,Aliquid,Dairy,Parle,87.09
+267,Assumenda,Dairy,HUL,98.0
+268,Voluptate,Dairy,Amul,424.45
+269,Aliquam,Dairy,HUL,263.51
+270,Repellat,Dairy,Parle,255.13
+271,Porro,Dairy,HUL,247.95
+272,Eum,Beverages,HUL,179.0
+273,Incidunt,Beverages,ITC,300.18
+274,Sunt,Beverages,Parle,247.8
+275,Error,Dairy,Parle,129.22
+276,Perspiciatis,Beverages,Parle,250.62
+277,Nulla,Dairy,Amul,366.17
+278,Velit,Household,Dabur,414.4
+279,Dolorem,Snacks,Nestle,294.83
+280,Expedita,Beverages,Dabur,29.09
+281,Officiis,Personal Care,ITC,92.69
+282,Hic,Snacks,ITC,260.87
+283,Deleniti,Dairy,ITC,438.95
+284,Voluptatem,Beverages,Amul,86.28
+285,Cum,Snacks,Parle,176.02
+286,Numquam,Household,Parle,200.88
+287,Placeat,Snacks,ITC,457.82
+288,Mollitia,Personal Care,Parle,190.06
+289,Dignissimos,Personal Care,Parle,252.41
+290,Quis,Snacks,HUL,287.88
+291,Culpa,Snacks,HUL,390.16
+292,Molestiae,Snacks,Amul,358.39
+293,Dolor,Personal Care,ITC,187.43
+294,Dignissimos,Personal Care,HUL,78.5
+295,Maiores,Dairy,ITC,449.97
+296,Amet,Household,HUL,478.21
+297,Laborum,Snacks,HUL,40.19
+298,Tempore,Beverages,HUL,463.52
+299,Aliquid,Personal Care,Amul,249.96
+300,Doloremque,Snacks,Parle,150.14
+301,Quis,Dairy,Amul,150.38
+302,Similique,Beverages,Parle,375.63
+303,Rem,Snacks,Dabur,44.37
+304,Numquam,Dairy,Dabur,326.21
+305,Nam,Beverages,Nestle,218.38
+306,Voluptas,Household,Nestle,346.97
+307,Corporis,Snacks,Nestle,482.97
+308,Reprehenderit,Snacks,ITC,333.39
+309,Debitis,Household,ITC,332.26
+310,Eveniet,Personal Care,HUL,157.0
+311,Nam,Beverages,Nestle,333.1
+312,Quas,Snacks,Parle,374.57
+313,Magni,Beverages,Dabur,220.58
+314,Atque,Snacks,Nestle,498.64
+315,Dignissimos,Household,ITC,109.43
+316,Rem,Personal Care,Nestle,24.45
+317,Nostrum,Dairy,Parle,71.5
+318,Esse,Personal Care,HUL,238.09
+319,Cumque,Dairy,Parle,257.08
+320,Eveniet,Snacks,Parle,244.65
+321,Saepe,Snacks,Nestle,178.73
+322,Totam,Household,Amul,143.49
+323,Illo,Snacks,Nestle,373.58
+324,Labore,Personal Care,Parle,343.71
+325,Nostrum,Snacks,Dabur,313.26
+326,Magni,Household,ITC,267.33
+327,Ex,Beverages,ITC,341.24
+328,Exercitationem,Snacks,Dabur,249.18
+329,Sint,Snacks,Nestle,145.18
+330,Nobis,Snacks,ITC,381.8
+331,Dolorum,Personal Care,HUL,299.58
+332,Vitae,Dairy,Nestle,145.55
+333,Eaque,Personal Care,Amul,133.43
+334,Officiis,Beverages,ITC,167.27
+335,Laudantium,Household,Amul,261.21
+336,Enim,Personal Care,Amul,76.36
+337,Voluptatem,Personal Care,HUL,315.02
+338,Nisi,Snacks,Dabur,249.53
+339,A,Household,Amul,494.64
+340,Quibusdam,Personal Care,ITC,356.93
+341,Veritatis,Household,Parle,404.96
+342,Eligendi,Snacks,Dabur,346.56
+343,Veritatis,Dairy,Nestle,272.24
+344,Mollitia,Dairy,Amul,193.66
+345,Architecto,Dairy,Nestle,49.64
+346,Sed,Dairy,Parle,117.04
+347,Hic,Dairy,Dabur,98.98
+348,Nemo,Dairy,ITC,75.8
+349,Consectetur,Snacks,Amul,299.91
+350,Explicabo,Beverages,Parle,233.83
+351,Necessitatibus,Beverages,ITC,83.33
+352,Soluta,Household,ITC,290.68
+353,Alias,Dairy,ITC,342.93
+354,Mollitia,Personal Care,Amul,30.45
+355,Reprehenderit,Personal Care,Nestle,377.99
+356,Architecto,Dairy,Nestle,41.74
+357,Debitis,Personal Care,Amul,50.6
+358,Cum,Beverages,Nestle,493.35
+359,Nulla,Household,Nestle,157.8
+360,Est,Snacks,Dabur,387.6
+361,Aliquid,Household,HUL,496.57
+362,Placeat,Household,ITC,437.42
+363,Eos,Household,ITC,58.52
+364,Distinctio,Dairy,Dabur,333.7
+365,Nam,Personal Care,Nestle,105.67
+366,Iste,Dairy,ITC,273.84
+367,Iure,Snacks,Nestle,382.97
+368,Amet,Personal Care,ITC,343.28
+369,Ipsum,Dairy,ITC,275.33
+370,Dolore,Snacks,Dabur,241.1
+371,Dignissimos,Snacks,HUL,110.47
+372,Reiciendis,Beverages,Nestle,408.55
+373,Nihil,Household,Parle,387.71
+374,Voluptatem,Beverages,Dabur,118.92
+375,Distinctio,Beverages,Parle,36.12
+376,Sint,Dairy,Amul,357.58
+377,Et,Beverages,Dabur,375.46
+378,Sint,Household,ITC,132.48
+379,Accusamus,Snacks,Nestle,87.27
+380,Modi,Personal Care,Dabur,411.58
+381,Maiores,Dairy,HUL,297.19
+382,Voluptate,Personal Care,Dabur,164.85
+383,Voluptas,Snacks,Amul,270.2
+384,Mollitia,Household,HUL,152.07
+385,Pariatur,Dairy,Parle,442.26
+386,Quisquam,Snacks,Amul,345.8
+387,Occaecati,Dairy,ITC,42.5
+388,Eius,Personal Care,Amul,342.24
+389,Doloribus,Dairy,HUL,354.23
+390,Modi,Household,Dabur,163.95
+391,Commodi,Snacks,Parle,247.29
+392,Tempora,Snacks,HUL,431.62
+393,Accusantium,Snacks,ITC,459.08
+394,Ipsam,Dairy,ITC,484.54
+395,Fugit,Dairy,Parle,84.36
+396,Odio,Snacks,HUL,117.6
+397,Repellat,Beverages,ITC,426.62
+398,Perferendis,Beverages,Parle,367.8
+399,Voluptatum,Snacks,Nestle,148.86
+400,Autem,Dairy,Parle,38.98
+401,Iusto,Beverages,Dabur,406.23
+402,Autem,Dairy,Amul,342.3
+403,Neque,Snacks,ITC,120.27
+404,Omnis,Personal Care,HUL,479.37
+405,Ipsa,Beverages,Dabur,469.84
+406,Quaerat,Beverages,Amul,499.79
+407,Perspiciatis,Household,Dabur,353.9
+408,At,Snacks,ITC,459.26
+409,Optio,Dairy,HUL,392.25
+410,Ipsam,Household,ITC,276.15
+411,Occaecati,Personal Care,HUL,145.55
+412,Quae,Dairy,ITC,243.68
+413,Autem,Household,HUL,458.88
+414,Quas,Personal Care,HUL,218.69
+415,Totam,Dairy,Dabur,375.8
+416,Fuga,Beverages,HUL,285.59
+417,Ullam,Dairy,Parle,365.61
+418,Quia,Personal Care,Dabur,114.17
+419,Doloremque,Snacks,ITC,293.5
+420,Quo,Snacks,ITC,284.31
+421,Consequuntur,Personal Care,HUL,386.41
+422,Numquam,Household,Amul,328.01
+423,Laborum,Household,ITC,100.75
+424,Recusandae,Personal Care,Dabur,87.18
+425,Omnis,Dairy,ITC,108.34
+426,Saepe,Dairy,Amul,479.47
+427,Itaque,Dairy,Nestle,422.75
+428,Incidunt,Beverages,Amul,43.29
+429,Iure,Beverages,ITC,86.0
+430,Sunt,Snacks,Nestle,359.44
+431,Laudantium,Beverages,Dabur,262.75
+432,Aut,Personal Care,Nestle,316.56
+433,Dolorem,Dairy,ITC,336.46
+434,Magnam,Beverages,Nestle,275.46
+435,Quidem,Household,Nestle,28.03
+436,Optio,Personal Care,Parle,489.19
+437,Eum,Beverages,Parle,410.32
+438,Reiciendis,Household,Dabur,71.37
+439,Facilis,Beverages,Parle,91.47
+440,Optio,Snacks,Parle,272.7
+441,Earum,Personal Care,HUL,401.57
+442,Similique,Beverages,HUL,480.46
+443,Alias,Household,Parle,136.74
+444,Similique,Snacks,HUL,348.34
+445,Perferendis,Beverages,Amul,496.0
+446,Facilis,Beverages,Nestle,214.53
+447,Minima,Household,Parle,248.48
+448,Voluptas,Beverages,Amul,102.26
+449,Itaque,Household,ITC,329.56
+450,Occaecati,Personal Care,Parle,489.12
+451,Labore,Beverages,Parle,461.19
+452,Libero,Snacks,Dabur,452.61
+453,Cupiditate,Dairy,ITC,150.13
+454,Veniam,Beverages,Amul,464.28
+455,Qui,Dairy,Parle,335.89
+456,Enim,Snacks,HUL,27.52
+457,Iste,Snacks,Parle,89.21
+458,Esse,Household,Nestle,163.65
+459,Ex,Dairy,Dabur,292.01
+460,Vero,Household,Amul,450.33
+461,Ipsum,Personal Care,ITC,382.69
+462,Vel,Snacks,Amul,367.6
+463,Facilis,Dairy,Amul,487.68
+464,Dolorem,Beverages,Nestle,229.8
+465,Consequuntur,Beverages,HUL,310.48
+466,Adipisci,Dairy,Parle,210.42
+467,Consequatur,Personal Care,Nestle,324.38
+468,Provident,Household,ITC,129.51
+469,Saepe,Dairy,ITC,227.29
+470,Exercitationem,Dairy,Amul,202.43
+471,Accusamus,Dairy,HUL,403.07
+472,Expedita,Beverages,Nestle,148.63
+473,Distinctio,Household,Amul,396.27
+474,Enim,Snacks,Amul,207.02
+475,Molestiae,Personal Care,Nestle,63.93
+476,Expedita,Personal Care,ITC,192.76
+477,Dolore,Personal Care,Nestle,83.6
+478,Nam,Snacks,ITC,235.44
+479,Facilis,Dairy,Parle,215.86
+480,Dignissimos,Beverages,Nestle,189.88
+481,Veniam,Beverages,Parle,307.06
+482,Delectus,Personal Care,ITC,25.92
+483,Cum,Household,ITC,394.0
+484,Eaque,Dairy,Dabur,294.54
+485,Voluptatem,Snacks,Amul,202.75
+486,Perspiciatis,Snacks,HUL,164.54
+487,Quae,Household,Dabur,50.37
+488,Cupiditate,Household,HUL,222.13
+489,Eos,Household,Nestle,193.34
+490,Minus,Snacks,Amul,320.02
+491,Temporibus,Dairy,Parle,113.86
+492,Sequi,Beverages,Dabur,166.24
+493,Aspernatur,Household,HUL,423.97
+494,Dolor,Household,HUL,231.31
+495,Ducimus,Household,Amul,487.63
+496,Impedit,Snacks,HUL,173.92
+497,Ab,Snacks,ITC,170.81
+498,Aut,Household,HUL,159.9
+499,Blanditiis,Household,Parle,395.35
+500,Consequatur,Personal Care,ITC,154.54
