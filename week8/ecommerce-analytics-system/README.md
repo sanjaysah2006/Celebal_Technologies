@@ -28,9 +28,7 @@ The system also includes a Command-Line Interface (CLI) reporting tool that gene
 - NumPy
 - Faker
 - SQLAlchemy
-- PyMySQL
 - MySQL
-- Tabulate
 - VS Code
 - MySQL Workbench
 
